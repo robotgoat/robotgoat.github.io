@@ -1,0 +1,13 @@
+[en]
+  title = "SpiffyGoose's Website"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+  
+[fr]
+  title = "SpiffyGoose's Website"
+  languageName = "Français"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/fr"

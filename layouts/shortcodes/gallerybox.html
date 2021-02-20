@@ -1,0 +1,19 @@
+<!--
+
+   This shortcode snippet creates an auto generated gallery using fancybox
+
+   To use this in your markdown, use the syntax:
+      gallerybox "PATH to your directory of photos"
+   
+   Parameters:
+      position 0: takes a string that is the relative path to the 
+
+-->
+{{ $albumPath := print "/images/" }}
+
+<div class="fancybox">
+   {{ range readDir $albumPath }}
+      {{ $imgURL := print "./images/" .Name }} 
+         <img src="{{ $imgURL }}" alt="">
+   {{ end }}
+</div>

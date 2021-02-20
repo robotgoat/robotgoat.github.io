@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 1
+
+[[main]]
+  identifier = "gallery"
+  name = "gallerie"
+  url = "gallery"
+  weight = 2
+  
+[[main]]
+  identifier = "notes"
+  name = "notes"
+  url = "notes"
+  weight = 3
+  
+[[main]]
+  identifier = "archive"
+  name = "archive"
+  url = "archive"
+  weight = 4
+  
+[[main]]
+  identifier = "about"
+  name = "about"
+  url = "about"
+  weight = 5
