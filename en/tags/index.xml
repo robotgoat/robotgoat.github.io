@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on SpiffyGoose&#39;s Website</title>
-    <link>http://spiffygoose.com/en/tags/</link>
+    <link>https://spiffygoose.com/en/tags/</link>
     <description>Recent content in Tags on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://spiffygoose.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spiffygoose.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>BMW</title>
-        <link>http://spiffygoose.com/en/tags/bmw/</link>
+        <link>https://spiffygoose.com/en/tags/bmw/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>http://spiffygoose.com/en/tags/bmw/</guid>
+        <guid>https://spiffygoose.com/en/tags/bmw/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>E38</title>
-        <link>http://spiffygoose.com/en/tags/e38/</link>
+        <link>https://spiffygoose.com/en/tags/e38/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>http://spiffygoose.com/en/tags/e38/</guid>
+        <guid>https://spiffygoose.com/en/tags/e38/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>index</title>
-        <link>http://spiffygoose.com/en/tags/index/</link>
+        <link>https://spiffygoose.com/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         
-        <guid>http://spiffygoose.com/en/tags/index/</guid>
+        <guid>https://spiffygoose.com/en/tags/index/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>

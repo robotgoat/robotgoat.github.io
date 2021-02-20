@@ -7,23 +7,23 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on SpiffyGoose&#39;s Website</title>
-    <link>http://spiffygoose.com/en/tags/index/</link>
+    <link>https://spiffygoose.com/en/tags/index/</link>
     <description>Recent content in index on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     
-        <atom:link href="http://spiffygoose.com/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spiffygoose.com/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://spiffygoose.com/en/posts/</link>
+        <link>https://spiffygoose.com/en/posts/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>http://spiffygoose.com/en/posts/</guid>
+        <guid>https://spiffygoose.com/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>Notes</title>
-        <link>http://spiffygoose.com/en/notes/</link>
+        <link>https://spiffygoose.com/en/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         
-        <guid>http://spiffygoose.com/en/notes/</guid>
+        <guid>https://spiffygoose.com/en/notes/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://spiffygoose.com/fr/categories/</loc>
+    <loc>https://spiffygoose.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spiffygoose.com/en/categories/"
+                href="https://spiffygoose.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://spiffygoose.com/fr/categories/"
+                href="https://spiffygoose.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://spiffygoose.com/fr/series/</loc>
+    <loc>https://spiffygoose.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spiffygoose.com/en/series/"
+                href="https://spiffygoose.com/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://spiffygoose.com/fr/series/"
+                href="https://spiffygoose.com/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://spiffygoose.com/fr/</loc>
+    <loc>https://spiffygoose.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spiffygoose.com/en/"
+                href="https://spiffygoose.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://spiffygoose.com/fr/"
+                href="https://spiffygoose.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://spiffygoose.com/fr/tags/</loc>
+    <loc>https://spiffygoose.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://spiffygoose.com/en/tags/"
+                href="https://spiffygoose.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://spiffygoose.com/fr/tags/"
+                href="https://spiffygoose.com/fr/tags/"
                 />
   </url>
   
