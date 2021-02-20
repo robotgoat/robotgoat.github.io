@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://robotgoat.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robotgoat.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/archive/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/tags/bmw/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/categories/bmw/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/categories/cars/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/categories/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://robotgoat.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robotgoat.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/tags/e38/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/gallery/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/posts/2021_02_19_new-e38/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/posts/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/series/project-e38/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/gallery/2021_02_19_random-cars/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/series/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://robotgoat.github.io/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robotgoat.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/tags/</loc>
+    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://robotgoat.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robotgoat.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robotgoat.github.io/en/notes/</loc>
+  </url>
+  
+</urlset>

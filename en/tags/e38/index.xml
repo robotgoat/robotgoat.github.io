@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>E38 on SpiffyGoose&#39;s Website</title>
+    <link>https://robotgoat.github.io/en/tags/e38/</link>
+    <description>Recent content in E38 on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://robotgoat.github.io/en/tags/e38/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>My New E38 Project</title>
+        <link>https://robotgoat.github.io/en/posts/2021_02_19_new-e38/</link>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>https://robotgoat.github.io/en/posts/2021_02_19_new-e38/</guid>
+        <description>Why Did I Buy It? I have been driving my Honda Civic for a few years now, but never ended up feeling attached to it since buying my E46 330Ci a couple years ago. Since getting a taste of the BMW experience, I have also been wanting of a more luxurious car that offers great dynamics, ergonomics, and comfort (NVH is a huge letdown in the Civic). Or it could be me just getting old.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="https://robotgoat.github.io/bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E38</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>project e38</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
