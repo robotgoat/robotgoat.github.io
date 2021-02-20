@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on SpiffyGoose&#39;s Website</title>
-    <link>https://robotgoat.github.io/en/archive/</link>
+    <link>http://spiffygoose.com/en/archive/</link>
     <description>Recent content in Archive on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://robotgoat.github.io/en/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://spiffygoose.com/en/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

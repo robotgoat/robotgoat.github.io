@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on SpiffyGoose&#39;s Website</title>
-    <link>https://robotgoat.github.io/en/categories/</link>
+    <link>http://spiffygoose.com/en/categories/</link>
     <description>Recent content in Categories on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://robotgoat.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://spiffygoose.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>BMW</title>
-        <link>https://robotgoat.github.io/en/categories/bmw/</link>
+        <link>http://spiffygoose.com/en/categories/bmw/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://robotgoat.github.io/en/categories/bmw/</guid>
+        <guid>http://spiffygoose.com/en/categories/bmw/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>cars</title>
-        <link>https://robotgoat.github.io/en/categories/cars/</link>
+        <link>http://spiffygoose.com/en/categories/cars/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://robotgoat.github.io/en/categories/cars/</guid>
+        <guid>http://spiffygoose.com/en/categories/cars/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
