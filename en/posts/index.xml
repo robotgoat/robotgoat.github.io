@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on SpiffyGoose&#39;s Website</title>
+    <title>Post section on SpiffyGoose&#39;s Website</title>
     <link>https://spiffygoose.com/en/posts/</link>
-    <description>Recent content in Posts on SpiffyGoose&#39;s Website</description>
+    <description>Recent content in Post section on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
     
         <atom:link href="https://spiffygoose.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
