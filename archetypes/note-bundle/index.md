@@ -4,15 +4,20 @@ date: {{ now.Format "2006-01-02" }}
 lastmod: {{ now.Format "2006-01-02"}}
 author: "SpiffyGoose"
 description:
-type: gallery
-mode: at-once #at-once or one-by-one
-draft: false
+type: note
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
 pinned: false
+draft: true
 tags:
 -
 series:
 -
 categories:
 -
-image: # thumbnail image
+image:
 ---

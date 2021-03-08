@@ -4,6 +4,7 @@ date: {{ now.Format "2006-01-02" }}
 lastmod: {{ now.Format "2006-01-02"}}
 author: "SpiffyGoose"
 description:
+type: post
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -18,5 +19,5 @@ series:
 -
 categories:
 -
-image:
+image: # thumbnail for home page left of title
 ---

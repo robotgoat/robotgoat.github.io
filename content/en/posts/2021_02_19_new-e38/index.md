@@ -4,6 +4,7 @@ date: 2021-02-19
 lastmod: 2021-02-19
 author: "SpiffyGoose"
 description: Introducing my new BMW that will become my new daily driver.
+type: post
 hideToc: false
 enableToc: true
 enableTocContent: false
@@ -44,11 +45,18 @@ Naturally, any neglected or even slightly neglected BMW will present itself with
 I intend to address all main issues warranted of a BMW of this vintage starting early spring of 2021. The goal is to proof the E38 so that it can supplant my Honda as my daily driver. To make this possible, the following is the current plan of action for the car in no particular order:
 
 - full cooling system refresh (yes I know absolutely mandatory for these BMWs :stuck_out_tongue_winking_eye:)
+    - will be testing the Chinese made Rein expansion tank from FCPEuro to save a little compared to the BMW OEM one
 - timing chain guide and tensioner job and ancilliary components for the M62TUB44
 - full suspension refresh
     - control arms and all bushings
+    - BC Racing coilovers
 - all fluids replace
+    - Redline ATF for ZF auto transmission
+    - Castrol engine oil
 - radio/head unit replacement with new amp and speakers
+    - review of Crutchfield 5Ch PicoNano amp in the future
+    - single din Pioneer or Sony to replace the stock tape deck and DSP unit
+    - retrofit rear deck 5.25in woofers with something different
 - interior deep clean
 - headliner replacement
 - send ABS module for rebuilding 

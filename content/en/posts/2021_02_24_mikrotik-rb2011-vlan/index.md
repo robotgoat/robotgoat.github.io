@@ -4,6 +4,7 @@ date: 2021-02-24
 lastmod: 2021-02-24
 author: "SpiffyGoose"
 description: Guide on setting up VLANs on the Mikrotik RB2011 router via Winbox utility
+type: post
 hideToc: false
 enableToc: true
 enableTocContent: false
