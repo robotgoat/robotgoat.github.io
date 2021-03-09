@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://spiffygoose.com/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/categories/"
+                href="/fr/categories/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/series/</loc>
+    <loc>/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/series/"
+                href="/fr/series/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/</loc>
+    <loc>/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/"
+                href="/fr/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
 </urlset>

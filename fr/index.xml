@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SpiffyGoose&#39;s Website</title>
-    <link>https://spiffygoose.com/fr/</link>
+    <link>/fr/</link>
     <description>Recent content on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     
-        <atom:link href="https://spiffygoose.com/fr/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
     
       
       

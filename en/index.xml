@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SpiffyGoose&#39;s Website</title>
-    <link>https://spiffygoose.com/en/</link>
+    <link>/en/</link>
     <description>Recent content on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://spiffygoose.com/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -41,11 +41,11 @@
       
       <item>
         <title>Useful Bash Commands</title>
-        <link>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</link>
+        <link>/en/notes/2021_03_07_useful-bash-commands/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 07 Mar 2021 00:00:00 +0000</atom:modified>
-        <guid>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</guid>
+        <guid>/en/notes/2021_03_07_useful-bash-commands/</guid>
         <description>Archiving Archive and compress files to tar and xz 1  tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/   When using pigz for parallel gz compresion 1  tar -c --use-compress-program=pigz -f NAME.tar.gz directory/   Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -73,15 +73,15 @@
       
       <item>
         <title>Mikrotik Rb2011 VLAN Guide (Winbox)</title>
-        <link>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
+        <link>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Wed, 24 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
+        <guid>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
         <description>Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS). By implementing VLANs, I not only have an excuse to upgrade to newer networking hardware, but also will be greatly increasing my overall home network security.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="https://spiffygoose.comrouter_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -109,15 +109,15 @@
       
       <item>
         <title>My New E38 Project</title>
-        <link>https://spiffygoose.com/en/posts/2021_02_19_new-e38/</link>
+        <link>/en/posts/2021_02_19_new-e38/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://spiffygoose.com/en/posts/2021_02_19_new-e38/</guid>
+        <guid>/en/posts/2021_02_19_new-e38/</guid>
         <description>Why Did I Buy It? I have been driving my 10th gen Honda Civic for a few years now, but never ended up feeling attached to it since buying my E46 330Ci a couple years ago. Since getting a taste of the BMW experience, I have also been wanting of a more luxurious car that offers great dynamics, ergonomics, and comfort (NVH is a huge letdown in the Civic). Or it could be me just getting old.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="https://spiffygoose.combmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://spiffygoose.com/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/"
+                href="/en/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/</loc>
+    <loc>/en/gallery/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/2021_03_08_san-diego-memories/</loc>
+    <loc>/en/gallery/2021_03_08_san-diego-memories/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/linux/</loc>
+    <loc>/en/tags/linux/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</loc>
+    <loc>/en/notes/2021_03_07_useful-bash-commands/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/mikrotik/</loc>
+    <loc>/en/tags/mikrotik/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
+    <loc>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/networking/</loc>
+    <loc>/en/tags/networking/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/archive/</loc>
+    <loc>/en/archive/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/bmw/</loc>
+    <loc>/en/tags/bmw/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/bmw/</loc>
+    <loc>/en/categories/bmw/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/cars/</loc>
+    <loc>/en/categories/cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/e38/</loc>
+    <loc>/en/tags/e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/2021_02_19_new-e38/</loc>
+    <loc>/en/posts/2021_02_19_new-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/series/project-e38/</loc>
+    <loc>/en/series/project-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/2021_02_19_random-cars/</loc>
+    <loc>/en/gallery/2021_02_19_random-cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/series/</loc>
+    <loc>/en/series/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/series/"
+                href="/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/notes/</loc>
+    <loc>/en/notes/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/about/</loc>
+    <loc>/en/about/</loc>
   </url>
 </urlset>
