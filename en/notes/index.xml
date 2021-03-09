@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Notes section on SpiffyGoose&#39;s Website</title>
-    <link>https://spiffygoose.com/en/notes/</link>
+    <link>https://robotgoat.github.io/en/notes/</link>
     <description>Recent content in Notes section on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
     
-        <atom:link href="https://spiffygoose.com/en/notes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://robotgoat.github.io/en/notes/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Useful Bash Commands</title>
-        <link>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</link>
+        <link>https://robotgoat.github.io/en/notes/2021_03_07_useful-bash-commands/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 07 Mar 2021 00:00:00 +0000</atom:modified>
-        <guid>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</guid>
+        <guid>https://robotgoat.github.io/en/notes/2021_03_07_useful-bash-commands/</guid>
         <description>Archiving Archive and compress files to tar and xz 1  tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/   When using pigz for parallel gz compresion 1  tar -c --use-compress-program=pigz -f NAME.tar.gz directory/   Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>

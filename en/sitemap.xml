@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://spiffygoose.com/en/</loc>
+    <loc>https://robotgoat.github.io/en/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/"
+                href="https://robotgoat.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/"
+                href="https://robotgoat.github.io/en/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/</loc>
+    <loc>https://robotgoat.github.io/en/gallery/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/2021_03_08_san-diego-memories/</loc>
+    <loc>https://robotgoat.github.io/en/gallery/2021_03_08_san-diego-memories/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/linux/</loc>
+    <loc>https://robotgoat.github.io/en/tags/linux/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/</loc>
+    <loc>https://robotgoat.github.io/en/tags/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/tags/"
+                href="https://robotgoat.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/tags/"
+                href="https://robotgoat.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/notes/2021_03_07_useful-bash-commands/</loc>
+    <loc>https://robotgoat.github.io/en/notes/2021_03_07_useful-bash-commands/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/mikrotik/</loc>
+    <loc>https://robotgoat.github.io/en/tags/mikrotik/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
+    <loc>https://robotgoat.github.io/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/networking/</loc>
+    <loc>https://robotgoat.github.io/en/tags/networking/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/archive/</loc>
+    <loc>https://robotgoat.github.io/en/archive/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/bmw/</loc>
+    <loc>https://robotgoat.github.io/en/tags/bmw/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/bmw/</loc>
+    <loc>https://robotgoat.github.io/en/categories/bmw/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/cars/</loc>
+    <loc>https://robotgoat.github.io/en/categories/cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/categories/</loc>
+    <loc>https://robotgoat.github.io/en/categories/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/categories/"
+                href="https://robotgoat.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/categories/"
+                href="https://robotgoat.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/tags/e38/</loc>
+    <loc>https://robotgoat.github.io/en/tags/e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/2021_02_19_new-e38/</loc>
+    <loc>https://robotgoat.github.io/en/posts/2021_02_19_new-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/series/project-e38/</loc>
+    <loc>https://robotgoat.github.io/en/series/project-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/gallery/2021_02_19_random-cars/</loc>
+    <loc>https://robotgoat.github.io/en/gallery/2021_02_19_random-cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/series/</loc>
+    <loc>https://robotgoat.github.io/en/series/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/series/"
+                href="https://robotgoat.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/series/"
+                href="https://robotgoat.github.io/en/series/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/en/notes/</loc>
+    <loc>https://robotgoat.github.io/en/notes/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/posts/</loc>
+    <loc>https://robotgoat.github.io/en/posts/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url><url>
-    <loc>https://spiffygoose.com/en/about/</loc>
+    <loc>https://robotgoat.github.io/en/about/</loc>
   </url>
 </urlset>

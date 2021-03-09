@@ -7,28 +7,28 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>mikrotik on SpiffyGoose&#39;s Website</title>
-    <link>https://spiffygoose.com/en/tags/mikrotik/</link>
+    <link>https://robotgoat.github.io/en/tags/mikrotik/</link>
     <description>Recent content in mikrotik on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://spiffygoose.com/en/tags/mikrotik/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://robotgoat.github.io/en/tags/mikrotik/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Mikrotik Rb2011 VLAN Guide (Winbox)</title>
-        <link>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
+        <link>https://robotgoat.github.io/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Wed, 24 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://spiffygoose.com/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
+        <guid>https://robotgoat.github.io/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
         <description>Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS). By implementing VLANs, I not only have an excuse to upgrade to newer networking hardware, but also will be greatly increasing my overall home network security.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="https://spiffygoose.com/router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://robotgoat.github.io/router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

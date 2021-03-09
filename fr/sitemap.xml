@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://spiffygoose.com/fr/categories/</loc>
+    <loc>https://robotgoat.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/categories/"
+                href="https://robotgoat.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/categories/"
+                href="https://robotgoat.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/series/</loc>
+    <loc>https://robotgoat.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/series/"
+                href="https://robotgoat.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/series/"
+                href="https://robotgoat.github.io/fr/series/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/</loc>
+    <loc>https://robotgoat.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/"
+                href="https://robotgoat.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/"
+                href="https://robotgoat.github.io/fr/"
                 />
   </url><url>
-    <loc>https://spiffygoose.com/fr/tags/</loc>
+    <loc>https://robotgoat.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://spiffygoose.com/en/tags/"
+                href="https://robotgoat.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://spiffygoose.com/fr/tags/"
+                href="https://robotgoat.github.io/fr/tags/"
                 />
   </url>
 </urlset>

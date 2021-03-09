@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on SpiffyGoose&#39;s Website</title>
-    <link>https://spiffygoose.com/en/tags/</link>
+    <link>https://robotgoat.github.io/en/tags/</link>
     <description>Recent content in Tags on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://spiffygoose.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://robotgoat.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>linux</title>
-        <link>https://spiffygoose.com/en/tags/linux/</link>
+        <link>https://robotgoat.github.io/en/tags/linux/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://spiffygoose.com/en/tags/linux/</guid>
+        <guid>https://robotgoat.github.io/en/tags/linux/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>mikrotik</title>
-        <link>https://spiffygoose.com/en/tags/mikrotik/</link>
+        <link>https://robotgoat.github.io/en/tags/mikrotik/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://spiffygoose.com/en/tags/mikrotik/</guid>
+        <guid>https://robotgoat.github.io/en/tags/mikrotik/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>networking</title>
-        <link>https://spiffygoose.com/en/tags/networking/</link>
+        <link>https://robotgoat.github.io/en/tags/networking/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://spiffygoose.com/en/tags/networking/</guid>
+        <guid>https://robotgoat.github.io/en/tags/networking/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -74,11 +74,11 @@
       
       <item>
         <title>BMW</title>
-        <link>https://spiffygoose.com/en/tags/bmw/</link>
+        <link>https://robotgoat.github.io/en/tags/bmw/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://spiffygoose.com/en/tags/bmw/</guid>
+        <guid>https://robotgoat.github.io/en/tags/bmw/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -92,11 +92,11 @@
       
       <item>
         <title>E38</title>
-        <link>https://spiffygoose.com/en/tags/e38/</link>
+        <link>https://robotgoat.github.io/en/tags/e38/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://spiffygoose.com/en/tags/e38/</guid>
+        <guid>https://robotgoat.github.io/en/tags/e38/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
