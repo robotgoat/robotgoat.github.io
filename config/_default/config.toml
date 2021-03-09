@@ -1,4 +1,5 @@
-baseURL = "https://spiffygoose.com" # The URL of your site.
+#baseURL = "https://spiffygoose.com" # The URL of your site.
+CNAME = "https://spiffygoose.com"
 title = "SpiffyGoose's Website'" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
