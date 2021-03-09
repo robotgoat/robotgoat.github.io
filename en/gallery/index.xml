@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on SpiffyGoose&#39;s Website</title>
-    <link>https://robotgoat.github.io/en/gallery/</link>
+    <link>https://spiffygoose.com/en/gallery/</link>
     <description>Recent content in Galleries on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://robotgoat.github.io/en/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://spiffygoose.com/en/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>San Diego Memories</title>
-        <link>https://robotgoat.github.io/en/gallery/2021_03_08_san-diego-memories/</link>
+        <link>https://spiffygoose.com/en/gallery/2021_03_08_san-diego-memories/</link>
         <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 08 Mar 2021 00:00:00 +0000</atom:modified>
-        <guid>https://robotgoat.github.io/en/gallery/2021_03_08_san-diego-memories/</guid>
+        <guid>https://spiffygoose.com/en/gallery/2021_03_08_san-diego-memories/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
@@ -50,11 +50,11 @@
       
       <item>
         <title>Random Cars</title>
-        <link>https://robotgoat.github.io/en/gallery/2021_02_19_random-cars/</link>
+        <link>https://spiffygoose.com/en/gallery/2021_02_19_random-cars/</link>
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://robotgoat.github.io/en/gallery/2021_02_19_random-cars/</guid>
+        <guid>https://spiffygoose.com/en/gallery/2021_02_19_random-cars/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
