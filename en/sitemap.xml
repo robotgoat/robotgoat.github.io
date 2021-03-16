@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,17 +15,43 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/gallery/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <loc>/en/tags/bmw/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/gallery/2021_03_08_san-diego-memories/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <loc>/en/categories/cars/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/linux/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <loc>/en/categories/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url><url>
+    <loc>/en/series/project-e46/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/series/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,6 +62,18 @@
                 hreflang="en"
                 href="/en/tags/"
                 />
+  </url><url>
+    <loc>/en/posts/2021_03_15_the-high-mileage-e46-coupe-project/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/gallery/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/gallery/2021_03_08_san-diego-memories/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/linux/</loc>
+    <lastmod>2021-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/notes/2021_03_07_useful-bash-commands/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
@@ -52,27 +90,8 @@
     <loc>/en/archive/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/bmw/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/en/categories/bmw/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/categories/cars/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/categories/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
   </url><url>
     <loc>/en/tags/e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
@@ -85,19 +104,6 @@
   </url><url>
     <loc>/en/gallery/2021_02_19_random-cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/series/</loc>
-    <lastmod>2021-02-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
   </url><url>
     <loc>/en/notes/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>

@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>BMW on SpiffyGoose&#39;s Website</title>
-    <link>/en/tags/bmw/</link>
-    <description>Recent content in BMW on SpiffyGoose&#39;s Website</description>
+    <title>project E46 on SpiffyGoose&#39;s Website</title>
+    <link>/en/series/project-e46/</link>
+    <description>Recent content in project E46 on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/en/tags/bmw/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/series/project-e46/index.xml" rel="self" type="application/rss+xml" />
     
 
       
@@ -49,50 +49,6 @@
           
             
               <category>project E46</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>My New E38 Project</title>
-        <link>/en/posts/2021_02_19_new-e38/</link>
-        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-        
-        <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>/en/posts/2021_02_19_new-e38/</guid>
-        <description>Why Did I Buy It? I have been driving my 10th gen Honda Civic for a few years now, but never ended up feeling attached to it since buying my E46 330Ci a couple years ago. Since getting a taste of the BMW experience, I have also been wanting of a more luxurious car that offers great dynamics, ergonomics, and comfort (NVH is a huge letdown in the Civic). Or it could be me just getting old.</description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>BMW</category>
-            
-          
-            
-              <category>E38</category>
-            
-          
-        
-        
-          
-            
-              <category>cars</category>
-            
-          
-            
-              <category>BMW</category>
-            
-          
-        
-        
-          
-            
-              <category>project e38</category>
             
           
         
