@@ -19,6 +19,39 @@
 
       
       <item>
+        <title>E46 Stereo Wiring</title>
+        <link>/en/notes/2021_03_25_e46-stereo-wiring/</link>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 25 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>/en/notes/2021_03_25_e46-stereo-wiring/</guid>
+        <description>Wiring Color Guide This color guide has been accurate when replacing the factory speaker and amplifier in my 2004 330Ci and 2001 325Ci. To double check, you can simply test continuity with a multimeter.
+Grey ½ of connector
+Pin # 13 / Tweeter Rear Right door + * Yellow Pin # 21 / Tweeter Rear Right door - *Blue / yellow
+Pin # 12 / Tweeter Front Right - Blue / Brown Pin #20 / no connection</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Useful Bash Commands</title>
         <link>/en/notes/2021_03_07_useful-bash-commands/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>

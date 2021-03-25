@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,9 @@
                 hreflang="en"
                 href="/en/"
                 />
+  </url><url>
+    <loc>/en/notes/2021_03_25_e46-stereo-wiring/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tags/bmw/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
