@@ -12,11 +12,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/series/project-e46/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>E46 L20 to LF30 Upgrade</title>
+        <link>/en/posts/2021_05_16_e46-l20-to-lf30-upgrade/</link>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 16 May 2021 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2021_05_16_e46-l20-to-lf30-upgrade/</guid>
+        <description>Intro When I picked up my E46 coupe from the seller and drove it home, I noticed the power steering system would make a groaning noise whenever I turned the wheel at a standstill or low speeds. Now that I have the car on jacks, I decided to replace the entire power steering system (hoses, reservoir, and powers steering pump).
+The OEM pump that&amp;rsquo;s in my car is the LUK LF20 style pump.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>The High Mileage E46 Coupe Project</title>

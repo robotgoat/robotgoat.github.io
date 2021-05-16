@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,7 +21,7 @@
       <item>
         <title>cars</title>
         <link>/en/categories/cars/</link>
-        <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
         
         
         <guid>/en/categories/cars/</guid>
