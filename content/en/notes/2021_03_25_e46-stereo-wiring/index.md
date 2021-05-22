@@ -19,7 +19,7 @@ series:
 -
 categories:
 -
-image:
+image: bmw-e46-logo.png
 ---
 
 ## Wiring Color Guide
