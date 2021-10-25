@@ -1351,7 +1351,7 @@
     <meta property="twitter:description" content="Random but useful Linux bash commands">
   
 
-<meta name="generator" content="Hugo 0.83.1" />
+<meta name="generator" content="Hugo 0.88.1" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1810,29 +1810,29 @@ if (!doNotTrack) {
 <h3 id="archive-and-compress-files-to-tar-and-xz">Archive and compress files to tar and xz</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="when-using-pigz-for-parallel-gz-compresion">When using pigz for parallel gz compresion</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">tar -c --use-compress-program<span class="o">=</span>pigz -f NAME.tar.gz directory/
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -c --use-compress-program<span class="o">=</span>pigz -f NAME.tar.gz directory/
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="create-tarxz-with-more-options">Create tar.xz with more options</h3>
 <p>The <code>-9</code> signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The <code>-T</code> is CPU cores. 0 uses all cores.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">tar -c -I <span class="s1">&#39;xz -9 -T0&#39;</span> -f archivename.tar.xz filesAndor directories/
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -c -I <span class="s1">&#39;xz -9 -T0&#39;</span> -f archivename.tar.xz filesAndor directories/
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="general-disk-management">General Disk Management</h2>
@@ -1840,68 +1840,68 @@ if (!doNotTrack) {
 <h3 id="view-disk-info-on-system">View disk info on system</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo lsblk -o NAME,SIZE,FSTYPE,LABEL,UUID,MOUNTPOINT
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo lsblk -o NAME,SIZE,FSTYPE,LABEL,UUID,MOUNTPOINT
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="manage-disk-with-fdisk">Manage disk with fdisk</h3>
 <p>Where {} is the identifier for the disk of interest</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo fdisk /dev/sd<span class="o">{}</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo fdisk /dev/sd<span class="o">{}</span>
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="get-disk-uuid-and-info">Get disk UUID and info</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo blkid
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo blkid
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="format-new-partition-to-ext4">Format new partition to ext4</h3>
 <p>Where x is the disk identifier and n is the partition number</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo mkfs.ext4 /dev/sdxn
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo mkfs.ext4 /dev/sdxn
 </code></pre></td></tr></table>
 </div>
 </div><h3 id="change-partition-label">Change partition label</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">sudo e2label /dev/sdxn NAME
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo e2label /dev/sdxn NAME
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="the-only-youtube-dl-command-you-need">The only youtube-dl command you need</h2>
 <p>Downloads the highest available quality video+audio</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">youtube-dl -f bestvideo+bestaudio -o <span class="s1">&#39;%(title)s&#39;</span> <span class="o">[</span>URL<span class="o">]</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">youtube-dl -f bestvideo+bestaudio -o <span class="s1">&#39;%(title)s&#39;</span> <span class="o">[</span>URL<span class="o">]</span>
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="fun-with-directories">Fun with directories</h2>
 <h3 id="replace-all-directory-names-with-spaces-with-underscores">Replace all directory names with spaces with underscores</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="k">for</span> f in *<span class="se">\ </span>*<span class="p">;</span> <span class="k">do</span> mv <span class="s2">&#34;</span><span class="nv">$f</span><span class="s2">&#34;</span> <span class="s2">&#34;</span><span class="si">${</span><span class="nv">f</span><span class="p">// /_</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">;</span> <span class="k">done</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="k">for</span> f in *<span class="se">\ </span>*<span class="p">;</span> <span class="k">do</span> mv <span class="s2">&#34;</span><span class="nv">$f</span><span class="s2">&#34;</span> <span class="s2">&#34;</span><span class="si">${</span><span class="nv">f</span><span class="p">// /_</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">;</span> <span class="k">done</span>
 </code></pre></td></tr></table>
 </div>
 </div>
