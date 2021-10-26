@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Post section on SpiffyGoose&#39;s Website</title>
+    <link>/fr/posts/</link>
+    <description>Recent content in Post section on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
+    
+        <atom:link href="/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>BMW E46 ECS Tuning Coilover Review</title>
+        <link>/fr/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</link>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 25 Oct 2021 00:00:00 +0000</atom:modified>
+        <guid>/fr/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</guid>
+        <description>Intro In my previous post, I had outlined a long list of things I had planned to do on my neglected, high mileage E46 coupe summer project. At long last and a little delayed, the car has been fully restored and refreshed. As part of the refresh, one of the components I failed to find adequate information on were the revised ECS Tuning branded coilovers for the regular E46. Feeling adventureous, I decided to bite the bullet and spend the ~$700 on the coilover kit to test out for myself.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>E46 LF20 to LF30 Upgrade</title>
+        <link>/fr/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</link>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 16 May 2021 00:00:00 +0000</atom:modified>
+        <guid>/fr/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</guid>
+        <description>Intro When I picked up my E46 coupe from the seller and drove it home, I noticed the power steering system would make a groaning noise whenever I turned the wheel at a standstill or low speeds. Now that I have the car on jacks, I decided to replace the entire power steering system (hoses, reservoir, and powers steering pump).
+The OEM pump that&amp;rsquo;s in my car is the LUK LF20 style pump.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>E46 Coupé d&#39;élevé Kilometrage Projet</title>
+        <link>/fr/posts/2021_03_15_the-high-mileage-e46-coupe-project/</link>
+        <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 15 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>/fr/posts/2021_03_15_the-high-mileage-e46-coupe-project/</guid>
+        <description>Backstory During the summer of last year in height of the covid fiasco and right after the hurricane, I had the brilliant idea to buy this 2001 BMW 325Ci coupe. I had found this on the e46fanatics forum&amp;rsquo;s classifieds section and was immediately enamored by the Tannin red interior paired with Alpine white exterior. Initially, I was convincing myself to not even consider inquiring and focus on my already present 2004 330Ci convertible.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Mikrotik Rb2011 VLAN Tutoriel (Winbox)</title>
+        <link>/fr/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
+        <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 24 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>/fr/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
+        <description>Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS). By implementing VLANs, I not only have an excuse to upgrade to newer networking hardware, but also will be greatly increasing my overall home network security.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>mikrotik</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Ma Nouvelle E38 Projet</title>
+        <link>/fr/posts/2021_02_19_new-e38/</link>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>/fr/posts/2021_02_19_new-e38/</guid>
+        <description>Why Did I Buy It? I have been driving my 10th gen Honda Civic for a few years now, but never ended up feeling attached to it since buying my E46 330Ci a couple years ago. Since getting a taste of the BMW experience, I have also been wanting of a more luxurious car that offers great dynamics, ergonomics, and comfort (NVH is a huge letdown in the Civic). Or it could be me just getting old.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E38</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>project e38</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

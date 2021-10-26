@@ -17,15 +17,55 @@
   </url><url>
     <loc>/en/tags/bmw/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/bmw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/bmw/"
+                />
   </url><url>
     <loc>/en/categories/bmw/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/bmw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/bmw/"
+                />
   </url><url>
     <loc>/en/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/"
+                />
   </url><url>
     <loc>/en/categories/cars/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/cars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/cars/"
+                />
   </url><url>
     <loc>/en/categories/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
@@ -42,9 +82,29 @@
   </url><url>
     <loc>/en/tags/e46/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/e46/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e46/"
+                />
   </url><url>
     <loc>/en/series/e46/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/e46/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/e46/"
+                />
   </url><url>
     <loc>/en/series/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
@@ -61,6 +121,16 @@
   </url><url>
     <loc>/en/tags/suspension/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/suspension/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/suspension/"
+                />
   </url><url>
     <loc>/en/tags/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
@@ -77,58 +147,248 @@
   </url><url>
     <loc>/en/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/2021_05_16_e46-lf20-to-lf30-upgrade/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2021_05_16_e46-lf20-to-lf30-upgrade/"
+                />
   </url><url>
     <loc>/en/series/project-e46/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/project-e46/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/project-e46/"
+                />
   </url><url>
     <loc>/en/notes/2021_03_25_e46-stereo-wiring/</loc>
     <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/notes/2021_03_25_e46-stereo-wiring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/notes/2021_03_25_e46-stereo-wiring/"
+                />
   </url><url>
     <loc>/en/posts/2021_03_15_the-high-mileage-e46-coupe-project/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/2021_03_15_the-high-mileage-e46-coupe-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2021_03_15_the-high-mileage-e46-coupe-project/"
+                />
   </url><url>
     <loc>/en/gallery/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/"
+                />
   </url><url>
     <loc>/en/gallery/2021_03_08_san-diego-memories/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/gallery/2021_03_08_san-diego-memories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/2021_03_08_san-diego-memories/"
+                />
   </url><url>
     <loc>/en/tags/linux/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/linux/"
+                />
   </url><url>
     <loc>/en/notes/2021_03_07_useful-bash-commands/</loc>
     <lastmod>2021-03-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/notes/2021_03_07_useful-bash-commands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/notes/2021_03_07_useful-bash-commands/"
+                />
   </url><url>
     <loc>/en/tags/mikrotik/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/mikrotik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/mikrotik/"
+                />
   </url><url>
     <loc>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/2021_02_24_mikrotik-rb2011-vlan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2021_02_24_mikrotik-rb2011-vlan/"
+                />
   </url><url>
     <loc>/en/tags/networking/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/networking/"
+                />
   </url><url>
     <loc>/en/archive/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/archive/"
+                />
   </url><url>
     <loc>/en/tags/e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/e38/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/e38/"
+                />
   </url><url>
     <loc>/en/posts/2021_02_19_new-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/2021_02_19_new-e38/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2021_02_19_new-e38/"
+                />
   </url><url>
     <loc>/en/series/project-e38/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/project-e38/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/project-e38/"
+                />
   </url><url>
     <loc>/en/gallery/2021_02_19_random-cars/</loc>
     <lastmod>2021-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/gallery/2021_02_19_random-cars/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/gallery/2021_02_19_random-cars/"
+                />
   </url><url>
     <loc>/en/notes/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/notes/"
+                />
   </url><url>
     <loc>/en/posts/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
   </url><url>
     <loc>/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
   </url>
 </urlset>
