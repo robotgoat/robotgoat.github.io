@@ -6,24 +6,24 @@
 
 [[main]]
   identifier = "gallery"
-  name = "gallerie"
+  name = "Galerie"
   url = "gallery"
   weight = 2
   
 [[main]]
   identifier = "notes"
-  name = "notes"
+  name = "Des Mots"
   url = "notes"
   weight = 3
   
 [[main]]
   identifier = "archive"
-  name = "archive"
+  name = "Archives"
   url = "archive"
   weight = 4
   
 [[main]]
   identifier = "about"
-  name = "about"
+  name = "Sur"
   url = "about"
   weight = 5
