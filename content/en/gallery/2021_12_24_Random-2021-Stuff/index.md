@@ -1,9 +1,9 @@
 ---
-title: "{{ replace (replaceRE `^\d{4}_\d{2}_\d{2}_*` "" .Name) "-" " " | title }}"
-date: {{ now.Format "2006-01-02" }}
-lastmod: {{ now.Format "2006-01-02"}}
+title: "Random 2021 Stuff"
+date: 2021-12-24
+lastmod: 2021-12-24
 author: "SpiffyGoose"
-description:
+description: I got a new hamster
 type: gallery
 mode: at-once #at-once or one-by-one
 draft: false

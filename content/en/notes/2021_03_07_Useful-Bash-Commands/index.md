@@ -19,7 +19,7 @@ series:
 -
 categories:
 -
-image:
+image: note-logo.png
 ---
 
 ## Archiving

@@ -5,9 +5,9 @@
 Help()
 {
 	# Help message
-	echo "Script to create a new note in this Hugo website"
+	echo "Script to create a new gallery in this Hugo website"
 	echo 
-	echo "Syntax: ./createNewNote Title-Of-Note"
+	echo "Syntax: ./createNewGallery Title-Of-Gallery"
 	echo "Ensure spaces in title are replaced with dashes"
 	echo
 }
@@ -22,4 +22,5 @@ while getopts ":h" option; do
 done
 
 
-hugo new --kind note-bundle notes/${TODAY}_${1}
+hugo new --kind gallery-bundle gallery/${TODAY}_${1}
+mkdir static/gallery/${TODAY}_${1}

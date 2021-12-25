@@ -14,5 +14,5 @@ series:
 -
 categories:
 - 
-image: # thumbnail image
+image: gallery-logo.png
 ---
