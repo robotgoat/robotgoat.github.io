@@ -61,7 +61,7 @@ Pin # 12 / Tweeter Front Right - Blue / Brown Pin #20 / no connection</descripti
         <description>Archiving Archive and compress files to tar and xz 1  tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/   When using pigz for parallel gz compresion 1  tar -c --use-compress-program=pigz -f NAME.tar.gz directory/   Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
-        
+        <media:content url="note-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
