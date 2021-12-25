@@ -22,4 +22,4 @@ while getopts ":h" option; do
 done
 
 
-hugo new --kind note-bundle notes/${today}_${1}
+hugo new --kind note-bundle notes/${TODAY}_${1}
