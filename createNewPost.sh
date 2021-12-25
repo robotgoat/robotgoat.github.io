@@ -22,4 +22,4 @@ while getopts ":h" option; do
 done
 
 
-hugo new --kind post-bundle posts/${today}_${1}
+hugo new --kind post-bundle posts/${TODAY}_${1}
