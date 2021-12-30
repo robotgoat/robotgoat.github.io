@@ -1,7 +1,7 @@
 ---
-title: "Mikrotik Rb2011 VLAN Guide (Winbox)"
+title: "Mikrotik Rb2011 VLAN Guide (Winbox) [DEPRECATED]"
 date: 2021-02-24
-lastmod: 2021-02-24
+lastmod: 2021-12-27
 author: "SpiffyGoose"
 description: Guide on setting up VLANs on the Mikrotik RB2011 router via Winbox utility
 type: post
@@ -22,6 +22,8 @@ categories:
 -
 image: router_icon.png
 ---
+
+THIS POST IS DEPRECATED. PLEASE VISIT THE UPDATED VERSION HERE: https://www.spiffygoose.com/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/
 
 ## Motivation
 
