@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,67 @@
                 hreflang="en"
                 href="/en/"
                 />
+  </url><url>
+    <loc>/en/tags/mikrotik/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/mikrotik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/mikrotik/"
+                />
+  </url><url>
+    <loc>/en/series/mikrotik/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/networking/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/networking/"
+                />
+  </url><url>
+    <loc>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/series/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/tags/vlan/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/gallery/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
@@ -122,19 +183,6 @@
                 href="/en/series/e46/"
                 />
   </url><url>
-    <loc>/en/series/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-  </url><url>
     <loc>/en/tags/suspension/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -146,19 +194,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/suspension/"
-                />
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
                 />
   </url><url>
     <loc>/en/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</loc>
@@ -252,21 +287,8 @@
                 href="/en/notes/2021_03_07_useful-bash-commands/"
                 />
   </url><url>
-    <loc>/en/tags/mikrotik/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/mikrotik/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/mikrotik/"
-                />
-  </url><url>
     <loc>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -276,19 +298,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/posts/2021_02_24_mikrotik-rb2011-vlan/"
-                />
-  </url><url>
-    <loc>/en/tags/networking/</loc>
-    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/networking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/networking/"
                 />
   </url><url>
     <loc>/en/archive/</loc>

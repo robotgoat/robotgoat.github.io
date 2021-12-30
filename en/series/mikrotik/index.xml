@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>networking on SpiffyGoose&#39;s Website</title>
-    <link>/en/tags/networking/</link>
-    <description>Recent content in networking on SpiffyGoose&#39;s Website</description>
+    <title>mikrotik on SpiffyGoose&#39;s Website</title>
+    <link>/en/series/mikrotik/</link>
+    <description>Recent content in mikrotik on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/en/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/series/mikrotik/index.xml" rel="self" type="application/rss+xml" />
     
 
       
@@ -55,43 +55,6 @@
           
             
               <category>mikrotik</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Mikrotik Rb2011 VLAN Guide (Winbox) [DEPRECATED]</title>
-        <link>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
-        <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-        
-        <atom:modified>Mon, 27 Dec 2021 00:00:00 +0000</atom:modified>
-        <guid>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
-        <description>THIS POST IS DEPRECATED. PLEASE VISIT THE UPDATED VERSION HERE: https://www.spiffygoose.com/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/
-Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS).</description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>networking</category>
-            
-          
-            
-              <category>mikrotik</category>
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
             
           
         

@@ -19,6 +19,48 @@
 
       
       <item>
+        <title>Revised Mikrotik RB2011 Series VLAN Guide and Setup</title>
+        <link>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</link>
+        <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 25 Dec 2021 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</guid>
+        <description>Intro In my previous post, I had detailed a rather rudimentary guide to setting up VLANs on the Mikrotik RB2011 series of routers utilizing the switch chips. As an end of year network audit, I found that the setup I had been using was incomplete and consequently, the first guide on this website is also lacking. To remedy this error, this is version 2 of the RB2011 VLAN guide. The following steps assume you start on the default configuration of the router.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>mikrotik</category>
+            
+          
+            
+              <category>vlan</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>mikrotik</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>BMW E46 ECS Tuning Coilover Review</title>
         <link>/en/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</link>
         <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
@@ -140,13 +182,14 @@ The OEM pump that&amp;rsquo;s in my car is the LUK LF20 style pump.</description
       </item>
       
       <item>
-        <title>Mikrotik Rb2011 VLAN Guide (Winbox)</title>
+        <title>Mikrotik Rb2011 VLAN Guide (Winbox) [DEPRECATED]</title>
         <link>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
         <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Wed, 24 Feb 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Mon, 27 Dec 2021 00:00:00 +0000</atom:modified>
         <guid>/en/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
-        <description>Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS). By implementing VLANs, I not only have an excuse to upgrade to newer networking hardware, but also will be greatly increasing my overall home network security.</description>
+        <description>THIS POST IS DEPRECATED. PLEASE VISIT THE UPDATED VERSION HERE: https://www.spiffygoose.com/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/
+Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS).</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
         <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
