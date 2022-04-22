@@ -18,9 +18,9 @@
 
 <script defer src="/js/lazysizes.min.fb649fcae62177dfe63e67081ddceb830b5ce1f05a4184e9bbb7d87ac4b8f4e5.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.086022fb02d7a1517e33c2670bffb976b3e80bcacd9caeee0c6a586064f20e42.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.1d13d3e810c3940e80cbba6216a1c76fbf42b5431fc83537ea6997863802362b.js"></script>
+<script defer src="/js/helper/fadeinout.min.1551b6dbdacc77e412a26a29d3b84d2dcdc8f05c3b617433a475dc53c8872bdb.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1351,7 +1351,7 @@
     <meta property="twitter:description" content="Random but useful Linux bash commands">
   
 
-<meta name="generator" content="Hugo 0.91.2" />
+<meta name="generator" content="Hugo 0.97.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1828,8 +1828,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="when-using-pigz-for-parallel-gz-compresion">When using pigz for parallel gz compresion</h3>
 <div class="highlight"><div class="chroma">
@@ -1837,8 +1837,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -c --use-compress-program<span class="o">=</span>pigz -f NAME.tar.gz directory/
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">tar -c --use-compress-program<span class="o">=</span>pigz -f NAME.tar.gz directory/
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="create-tarxz-with-more-options">Create tar.xz with more options</h3>
 <p>The <code>-9</code> signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The <code>-T</code> is CPU cores. 0 uses all cores.</p>
@@ -1847,8 +1847,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">tar -c -I <span class="s1">&#39;xz -9 -T0&#39;</span> -f archivename.tar.xz filesAndor directories/
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">tar -c -I <span class="s1">&#39;xz -9 -T0&#39;</span> -f archivename.tar.xz filesAndor directories/
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="general-disk-management">General Disk Management</h2>
 <p>These can be useful when managing a remote server</p>
@@ -1858,8 +1858,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo lsblk -o NAME,SIZE,FSTYPE,LABEL,UUID,MOUNTPOINT
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo lsblk -o NAME,SIZE,FSTYPE,LABEL,UUID,MOUNTPOINT
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="manage-disk-with-fdisk">Manage disk with fdisk</h3>
 <p>Where {} is the identifier for the disk of interest</p>
@@ -1868,8 +1868,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo fdisk /dev/sd<span class="o">{}</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo fdisk /dev/sd<span class="o">{}</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="get-disk-uuid-and-info">Get disk UUID and info</h3>
 <div class="highlight"><div class="chroma">
@@ -1877,8 +1877,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo blkid
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo blkid
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="format-new-partition-to-ext4">Format new partition to ext4</h3>
 <p>Where x is the disk identifier and n is the partition number</p>
@@ -1887,8 +1887,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo mkfs.ext4 /dev/sdxn
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo mkfs.ext4 /dev/sdxn
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h3 id="change-partition-label">Change partition label</h3>
 <div class="highlight"><div class="chroma">
@@ -1896,8 +1896,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">sudo e2label /dev/sdxn NAME
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo e2label /dev/sdxn NAME
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="the-only-youtube-dl-command-you-need">The only youtube-dl command you need</h2>
 <p>Downloads the highest available quality video+audio</p>
@@ -1906,8 +1906,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash">youtube-dl -f bestvideo+bestaudio -o <span class="s1">&#39;%(title)s&#39;</span> <span class="o">[</span>URL<span class="o">]</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">youtube-dl -f bestvideo+bestaudio -o <span class="s1">&#39;%(title)s&#39;</span> <span class="o">[</span>URL<span class="o">]</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="fun-with-directories">Fun with directories</h2>
 <h3 id="replace-all-directory-names-with-spaces-with-underscores">Replace all directory names with spaces with underscores</h3>
@@ -1916,8 +1916,8 @@ if (!doNotTrack) {
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="k">for</span> f in *<span class="se">\ </span>*<span class="p">;</span> <span class="k">do</span> mv <span class="s2">&#34;</span><span class="nv">$f</span><span class="s2">&#34;</span> <span class="s2">&#34;</span><span class="si">${</span><span class="nv">f</span><span class="p">// /_</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">;</span> <span class="k">done</span>
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="k">for</span> f in *<span class="se">\ </span>*<span class="p">;</span> <span class="k">do</span> mv <span class="s2">&#34;</span><span class="nv">$f</span><span class="s2">&#34;</span> <span class="s2">&#34;</span><span class="si">${</span><span class="nv">f</span><span class="p">// /_</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">;</span> <span class="k">done</span>
+</span></span></code></pre></td></tr></table>
 </div>
 </div>
     </article>
@@ -2299,7 +2299,7 @@ if (!doNotTrack) {
 </div>
 
 
-<script defer src="/js/swipe.min.989e074dfb92ce7f57a92c1df7027f88b53c50a54fd9ad450a673a64aa91bfa4.js"></script>
+<script defer src="/js/swipe.min.25f8e2889d0e03e2f9015306518a5ae00178acd2ec1b8e5ef20cc9f888d908ca.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 
@@ -3319,7 +3319,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 
             <p class="caption">
                 
-                    © 2021, SpiffyGoose
+                    © 2022, SpiffyGoose
                 
             </p>
         
