@@ -1,7 +1,7 @@
 ---
 title: "BMW E46 ECS Tuning Coilover Review"
 date: 2021-10-24
-lastmod: 2021-10-25
+lastmod: 2022-04-22
 author: "SpiffyGoose"
 description: Review of the revised ECS Tuning coilovers for the E46
 type: post
@@ -24,6 +24,13 @@ categories:
 - cars
 image: bmw-e46-logo.png # thumbnail for home page left of title bmw-e38-logo.png or bmw-e46-logo.png
 ---
+
+## 8 Month Update April 22, 2022
+
+After having daily driven the ECS Tuning coilovers on my stock 325ci for nearly 8 months, I can now confidently say that they are indeed much too harsh for the pockmarked and rough roads of the midwest. On perfectly smooth roads, these coilovers are great and comfortable, but at the slightest perturbation in the road, the comfort declines drastically. The coilovers clunked a lot and the added stiffness and lack of suspension spring travel put too much torsional stress on the chassis. I would often hear the chassis make noises when going over uneven surfaces at an angle. I would be scared the rear glass would crack due to the chassis flex. 
+
+I have now returned to the stock springs and upgraded to Bilstein B4 touring strut/shocks. The ride comfort is vastly better for daily driving and the B4 provide enough stiffness for spirited driving in the corners.
+
 
 ## Intro
 
