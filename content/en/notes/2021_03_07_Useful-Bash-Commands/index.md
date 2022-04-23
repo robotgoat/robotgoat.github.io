@@ -1,7 +1,7 @@
 ---
 title: "Useful Bash Commands"
 date: 2021-03-07
-lastmod: 2021-03-07
+lastmod: 2022-04-23
 author: "SpiffyGoose"
 description: Random but useful Linux bash commands
 type: note
@@ -11,7 +11,7 @@ enableTocContent: false
 tocFolding: false
 tocPosition: inner
 tocLevels: ["h2", "h3"]
-pinned: true
+pinned: false
 draft: false
 tags:
 - linux
@@ -73,11 +73,6 @@ sudo mkfs.ext4 /dev/sdxn
 sudo e2label /dev/sdxn NAME
 ```
 
-## The only youtube-dl command you need
-Downloads the highest available quality video+audio
-```bash
-youtube-dl -f bestvideo+bestaudio -o '%(title)s' [URL]
-```
 
 ## Fun with directories
 
