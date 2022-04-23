@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -240,7 +240,7 @@ Pin # 12 / Tweeter Front Right - Blue / Brown Pin #20 / no connection</descripti
         <link>/en/notes/2021_03_07_useful-bash-commands/</link>
         <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Sun, 07 Mar 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Sat, 23 Apr 2022 00:00:00 +0000</atom:modified>
         <guid>/en/notes/2021_03_07_useful-bash-commands/</guid>
         <description>Archiving Archive and compress files to tar and xz 1  tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/   When using pigz for parallel gz compresion 1  tar -c --use-compress-program=pigz -f NAME.tar.gz directory/   Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores.</description>
         
