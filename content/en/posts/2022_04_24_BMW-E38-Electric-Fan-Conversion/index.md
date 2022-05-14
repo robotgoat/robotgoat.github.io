@@ -28,5 +28,5 @@ A common modification/upgrade on older BMWs is the removal of the pulley driven 
 
 Thus, this post will outline and show how I install a generic electric fan and tune its temperature switch to come on when necessary. 
 
-Stay tuned for the complete guide!
+Stay tuned for the complete guide coming later this summer!
 
