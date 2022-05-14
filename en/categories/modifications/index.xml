@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>E38 on SpiffyGoose&#39;s Website</title>
-    <link>/en/series/e38/</link>
-    <description>Recent content in E38 on SpiffyGoose&#39;s Website</description>
+    <title>modifications on SpiffyGoose&#39;s Website</title>
+    <link>/en/categories/modifications/</link>
+    <description>Recent content in modifications on SpiffyGoose&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
     <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/en/series/e38/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/en/categories/modifications/index.xml" rel="self" type="application/rss+xml" />
     
 
       
@@ -42,40 +42,6 @@
           
             
               <category>modifications</category>
-            
-          
-        
-        
-          
-            
-              <category>E38</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Project Ohio E38 Progress</title>
-        <link>/en/gallery/2022_04_23_project-ohio-e38-progress/</link>
-        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-        
-        <atom:modified>Sat, 23 Apr 2022 00:00:00 +0000</atom:modified>
-        <guid>/en/gallery/2022_04_23_project-ohio-e38-progress/</guid>
-        <description></description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>BMW</category>
-            
-          
-        
-        
-          
             
           
         
