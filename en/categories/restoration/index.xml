@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>restoration on SpiffyGoose&#39;s Website</title>
+    <link>/en/categories/restoration/</link>
+    <description>Recent content in restoration on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/en/categories/restoration/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>BMW E38 Custom Fuel Rail Hose Replacement</title>
+        <link>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</link>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 24 May 2022 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</guid>
+        <description>Intro The BMW E38 7 series is now approaching classic status with the earlier model years already at 25 years of age. As the E38 generation approaches nearly 2 decades on average, it is important to replace the numerous wear and tear items that decay with age, most notably fuel hoses.
+The Problem The fuel rail on the M62tu engine poses a slight problem in this restoration of fuel hoses. The problem lies in the design of the rubber fuel hose that connects to the fuel rail: it is crimped on the rail and terminates with a BMW quick connect fitting.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>fuel</category>
+            
+          
+        
+        
+          
+            
+              <category>restoration</category>
+            
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

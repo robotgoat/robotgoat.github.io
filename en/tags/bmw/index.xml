@@ -12,47 +12,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/tags/bmw/index.xml" rel="self" type="application/rss+xml" />
     
 
-      
-      <item>
-        <title>BMW E38 Electric Fan Conversion</title>
-        <link>/en/posts/2022_04_24_bmw-e38-electric-fan-conversion/</link>
-        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-        
-        <atom:modified>Sun, 24 Apr 2022 00:00:00 +0000</atom:modified>
-        <guid>/en/posts/2022_04_24_bmw-e38-electric-fan-conversion/</guid>
-        <description>Intro A common modification/upgrade on older BMWs is the removal of the pulley driven engine fan on the water pump and installation of an electrically driven fan. This modification is easy on E46, but slightly more difficult on E38 and E39 as they did not come with a main electric fan from the factory. This modification is performed to reduce the risk of the mechanical fan&amp;rsquo;s blades from shattering, potentially causing havoc to the engine.</description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>BMW</category>
-            
-          
-        
-        
-          
-            
-              <category>modifications</category>
-            
-          
-        
-        
-          
-            
-              <category>E38</category>
-            
-          
-        
-      </item>
       
       <item>
         <title>Project Ohio E38 Progress</title>

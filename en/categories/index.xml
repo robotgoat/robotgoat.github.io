@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,10 +21,28 @@
       <item>
         <title>modifications</title>
         <link>/en/categories/modifications/</link>
-        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
         
         
         <guid>/en/categories/modifications/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>restoration</title>
+        <link>/en/categories/restoration/</link>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/categories/restoration/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>

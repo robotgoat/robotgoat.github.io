@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,24 +15,11 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/tags/bmw/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/bmw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/bmw/"
-                />
-  </url><url>
-    <loc>/en/posts/2022_04_24_bmw-e38-electric-fan-conversion/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <loc>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/categories/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,13 +32,19 @@
                 />
   </url><url>
     <loc>/en/series/e38/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/fuel/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/categories/modifications/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/categories/restoration/</loc>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/series/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -64,7 +57,7 @@
                 />
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -74,6 +67,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/posts/2022_04_24_bmw-e38-electric-fan-conversion/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/cooling/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/bmw/</loc>
+    <lastmod>2022-04-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/bmw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/bmw/"
                 />
   </url><url>
     <loc>/en/gallery/</loc>
