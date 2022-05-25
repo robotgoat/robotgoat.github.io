@@ -14,7 +14,7 @@ tocLevels: ["h2", "h3", "h4"]
 pinned: false
 draft: false
 tags:
-- BMW
+- cooling
 series:
 - E38
 categories:
@@ -26,7 +26,12 @@ image: bmw-e38-logo.png # thumbnail for home page left of title bmw-e38-logo.png
 
 A common modification/upgrade on older BMWs is the removal of the pulley driven engine fan on the water pump and installation of an electrically driven fan. This modification is easy on E46, but slightly more difficult on E38 and E39 as they did not come with a main electric fan from the factory. This modification is performed to reduce the risk of the mechanical fan's blades from shattering, potentially causing havoc to the engine. It also reduces load on the water pump's bearings, theoretically extending its relibility and lifespan. There are also reports on the forums that the removal of the parasitic draw from the clutch driven mechanical fan makes the engine feel more responsive. It is clear the benifits of this modification are a net upgrade, if done properly. 
 
-Thus, this post will outline and show how I install a generic electric fan and tune its temperature switch to come on when necessary. 
+Thus, this post will outline and show how I install a generic electric fan and tune its temperature switch to come on for adequate cooling.
 
 Stay tuned for the complete guide coming later this summer!
+
+## Parts Used
+* Spal 30102049 16in curved fan
+* Spal mounting brackets (4x)
+* Davies Craig DC-0444 fan controller and thermatic fan switch
 
