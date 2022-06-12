@@ -1,7 +1,7 @@
 ---
 title: "BMW E38 Custom Fuel Rail Hose Replacement"
 date: 2022-05-24
-lastmod: 2022-05-24
+lastmod: 2022-06-12
 author: "SpiffyGoose"
 description: Replacing unserviceabe BMW M62tu fuel rail hose.
 type: post
@@ -35,4 +35,16 @@ The fuel rail on the M62tu engine poses a slight problem in this restoration of 
 
 ## The Solution
 
-Coming soon! Waiting for parts to come in.
+The solution is actually very simple. All that needs to be done is to use a dremel or similar cutting tool to cut a slit on the metal piece that crimps the tube to the fuel rail. Once the crimp is removed, it will allow you to remove the old rubber fuel line and crimp. 
+
+![](fuelrailend.jpg)
+
+As can be seen, you have a standard dimple end you can slide your replacement 8mm ID fuel hose and use regular fuel hose clamps to secure. This same process can be used for the transmission oil cooler lines to replace the transmission oil hoses. 
+
+## Where it Connects on the Car
+
+That's all great, but there's still one small problem. the connection from the fuel rail to the car still uses the quick connect fitting, which we have forgone for a simpler hose and clamp solution. To address this, you will need an 8mm OD compression fitting, a coupler, and a barbed fitting. You basically screw them on and tighten them to the metal fuel pipe and voila, the connections are solved! You do not need to use a thread sealant as the threads on these fittings deform when torqued down, creating the seal. Thus, they are one time use if you take the fittings apart. 
+
+![](railend1.jpg)
+
+![](railend2.jpg)
