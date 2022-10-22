@@ -21,6 +21,6 @@ while getopts ":h" option; do
 	esac
 done
 
-
+TODAY=date +"%Y-%m-%d"
 hugo new --kind gallery-bundle gallery/${TODAY}_${1}
 mkdir static/gallery/${TODAY}_${1}
