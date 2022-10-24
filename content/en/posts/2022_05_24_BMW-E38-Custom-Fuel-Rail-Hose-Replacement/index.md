@@ -1,7 +1,7 @@
 ---
 title: "BMW E38 Custom Fuel Rail Hose Replacement"
 date: 2022-05-24
-lastmod: 2022-06-12
+lastmod: 2022-10-24
 author: "SpiffyGoose"
 description: Replacing unserviceabe BMW M62tu fuel rail hose.
 type: post
@@ -22,6 +22,10 @@ categories:
 - modifications
 image: bmw-e38-logo.png # thumbnail for home page left of title bmw-e38-logo.png or bmw-e46-logo.png
 ---
+
+## Addendum To The Solution
+
+While replacing the other crimped hoses on the car, I revisited the fuel hose solution. I am a proponent of the KISS (keep it simple, stupid) philosophy and opted to remove the complicated crimp setup on the fuel line coming from the filter. To simplify the hose attachment, the simpler solution is to simply create a raised ring around the metal tube where the fuel hose attaches. This is accomplished by applying a small ring of JB Weld to create the bulbous barb seen on the fuel rail end. This simplifies the attachment and reduces a possible failure point for leaks.
 
 ## Intro
 

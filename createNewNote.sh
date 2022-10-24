@@ -21,5 +21,5 @@ while getopts ":h" option; do
 	esac
 done
 
-TODAY=date +"%Y-%m-%d"
+TODAY=$(date "+%Y_%m_%d")
 hugo new --kind note-bundle notes/${TODAY}_${1}
