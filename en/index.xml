@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,10 +44,9 @@
         <link>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</link>
         <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
         
-        <atom:modified>Sun, 12 Jun 2022 00:00:00 +0000</atom:modified>
+        <atom:modified>Mon, 24 Oct 2022 00:00:00 +0000</atom:modified>
         <guid>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</guid>
-        <description>Intro The BMW E38 7 series is now approaching classic status with the earlier model years already at 25 years of age. As the E38 generation approaches nearly 2 decades on average, it is important to replace the numerous wear and tear items that decay with age, most notably fuel hoses.
-The Problem The fuel rail on the M62tu engine poses a slight problem in this restoration of fuel hoses. The problem lies in the design of the rubber fuel hose that connects to the fuel rail: it is crimped on the rail and terminates with a BMW quick connect fitting.</description>
+        <description>Addendum To The Solution While replacing the other crimped hoses on the car, I revisited the fuel hose solution. I am a proponent of the KISS (keep it simple, stupid) philosophy and opted to remove the complicated crimp setup on the fuel line coming from the filter. To simplify the hose attachment, the simpler solution is to simply create a raised ring around the metal tube where the fuel hose attaches.</description>
         
         <dc:creator>SpiffyGoose</dc:creator>
         <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>

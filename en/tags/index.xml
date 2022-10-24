@@ -12,11 +12,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>BMW</title>
+        <link>/en/tags/bmw/</link>
+        <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/tags/bmw/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>motorsports</title>
+        <link>/en/tags/motorsports/</link>
+        <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/tags/motorsports/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>fuel</title>
@@ -43,24 +79,6 @@
         
         
         <guid>/en/tags/cooling/</guid>
-        <description></description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>BMW</title>
-        <link>/en/tags/bmw/</link>
-        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>/en/tags/bmw/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
