@@ -1,7 +1,7 @@
 ---
-title: "Revised Mikrotik RB2011 Series VLAN Guide and Setup"
+title: "Revised Mikrotik RB2011 Series VLAN Guide and Setup With Switch Chip"
 date: 2021-12-25
-lastmod: 2021-12-25
+lastmod: 2022-10-25
 author: "SpiffyGoose"
 description: Revision V2 of the Mikrotik RB2011 series VLAN guide with more details
 type: post
@@ -29,11 +29,9 @@ image: router_icon.png # thumbnail for home page left of title bmw-e38-logo.png 
 In my previous post, I had detailed a rather rudimentary guide to setting up VLANs on the Mikrotik RB2011 series of routers utilizing the switch chips. As an end of year network audit, I found that the setup I had been using was incomplete and consequently, the first guide on this website is also lacking. To remedy this error, this is version 2 of the RB2011 VLAN guide. The following steps assume you start on the default configuration of the router.
 
 This guide will cover the following topics:
-* VLAN creation on the router using trunk, hybrid, and dedicated ports 
+* VLAN creation on the router using trunk, hybrid, and dedicated ports (utilizing the RB2011 switch chips) 
 * implement managed switches and wireless access points using multiple VLANs
-* enable a rudimentary IPV6 setup to function on the respective VLANs
-* secure IPV6 and IPV4 firewall setup
-* the addition of a Pihole DNS sink to function with the VLANs and firewalls
+* secure IPV4 firewall setup
 
 
 ### Network Summary
@@ -122,21 +120,28 @@ add chain=dstnat action=dst-nat to-addresses=PIHOLE protocol=tcp src-address=!PI
 add chain=srcnat action=masquerade protocol=udp dst-address=PIHOLE dst-port=53
 add chain=srcnat action=masquerade protocol=tcp dst-address=PIHOLE dst-port=53
 ```
+**ATTENTION**
+The above configuration is unsecure for DNS hard routing on the network. It will expose port 53 to the internet with some ISPs. The correct configuration is below which fixes this issue. The fix involves adding a rule for the *in-interface* in the *dstnat* chain to be *!ether1* (or whichever interface is your WAN). 
+
+```bash
+/ip firewall nat
+add chain=dstnat action=dst-nat to-addresses=PIHOLE protocol=udp src-address=!PIHOLE dst-address=!PIHOLE dst-port=53 in-interface=!ether1
+add chain=dstnat action=dst-nat to-addresses=PIHOLE protocol=tcp src-address=!PIHOLE dst-address=!PIHOLE dst-port=53 in-interface=!ether1
+    
+add chain=srcnat action=masquerade protocol=udp dst-address=PIHOLE dst-port=53
+add chain=srcnat action=masquerade protocol=tcp dst-address=PIHOLE dst-port=53
+```
 
 With the blanket blacklist firewall principle, an additional two rules need to be added for the Pihole to work, which is explained in the next section.
 
 
-## Part 5: Configure IPV4 and IPV6 Firewall Rules
+## Part 5: Configure IPV4 Firewall Rules
 
 ![](vlan7.jpg)
 
 Lastly, we need to secure the traffic flow with firewall rules for both ipv4 and ipv6. The principle I like to use for firewall rules is a blanket blacklist to block all inter-VLAN routing and access to the internet. This is signified by the last rule in the firewall settings above that states to block all forwarded traffic coming through the router. 
 
 Next, we need to ensure the Pihole will work, so we need to add two rules (one for TCP and UDP traffic) that open all devices on all VLANs to port 53 going to the Pihole's IP address. We also need to change the main DNS settings, so open the DNS window by clicking IP -> DNS. Uncheck **Allow Remote Requests** and add the IP of the address of the Pihole in the **Servers** field. If using IPV6, the Pihole's IPV6 will automatically be filled in. Finally, click IP -> DHCP Client, and double click the single row for ether1. Uncheck Peer DNS.
-
-### IPV6 Rules
-
-[Coming Soon]
 
 
 ## References

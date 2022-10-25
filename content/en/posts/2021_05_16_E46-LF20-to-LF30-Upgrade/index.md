@@ -44,7 +44,7 @@ The OEM LF-20 pump removed before cleaning
 The aftermarket LF-30 pump with the OEM LF-20 front bracket intalled
 ![](lf30-pump-1.jpg)
 
-To my pleasant surprise, the LF-20 front bracket fits without an issue. The only issue is the rear bracket. While the rear bracket can be bolted to the pump, the bracket does not line up with the bolt hole on the engine block. A custom bolting solution will be needed for the rear bracket.
+To my pleasant surprise, the LF-20 front bracket fits without an issue. The only issue is the rear bracket. While the rear bracket can be bolted to the pump, the bracket does not line up with the bolt hole on the engine block. A custom bolting solution or the brackets from the original LF-30 will be needed to properly mount the pump.
 
 Rear bracket
 ![](lf30-pump-2.jpg)
