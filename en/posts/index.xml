@@ -19,6 +19,95 @@
 
       
       <item>
+        <title>Amazon LF30 Pump Review</title>
+        <link>/en/posts/2022_10_25_amazon-lf30-pump-review/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2022_10_25_amazon-lf30-pump-review/</guid>
+        <description>Intro Earlier this year I decided to switch my power steering system in my E46 325ci to the LF30 style pump due it apparently having a more robust design. The LUK branded new pumps at that time were on backorder and still seem to be backordered. I therefore bought a cheap one from Amazon and have now been using it for almost a year.
+One Year Review Since installing this pump, I have driven my car almost 10,000 miles and taken it through some very spirited routes in the Smokey Mountains.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E46</category>
+            
+          
+        
+        
+          
+            
+              <category>maintenance</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Uro Parts Front Suspension One Year Review</title>
+        <link>/en/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</guid>
+        <description>Intro Back when I was performing the full refresh on my neglected, zero maintenance history 325Ci, I opted to save some money and bought the Uro Parts full front suspension kit from Bimmerworld. The same kit is available on RockAuto, the ad of which is shown here. I had purchased it for $245, which seemed like a good deal for control arms, bushings, tie rod inner and outers, and sway bar endlinks.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>maintenance</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>BMW E38 Custom Fuel Rail Hose Replacement</title>
         <link>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</link>
         <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
@@ -95,11 +184,11 @@
       </item>
       
       <item>
-        <title>Revised Mikrotik RB2011 Series VLAN Guide and Setup</title>
+        <title>Revised Mikrotik RB2011 Series VLAN Guide and Setup With Switch Chip</title>
         <link>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</link>
         <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Sat, 25 Dec 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
         <guid>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</guid>
         <description>Intro In my previous post, I had detailed a rather rudimentary guide to setting up VLANs on the Mikrotik RB2011 series of routers utilizing the switch chips. As an end of year network audit, I found that the setup I had been using was incomplete and consequently, the first guide on this website is also lacking. To remedy this error, this is version 2 of the RB2011 VLAN guide. The following steps assume you start on the default configuration of the router.</description>
         

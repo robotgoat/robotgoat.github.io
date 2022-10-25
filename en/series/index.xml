@@ -12,11 +12,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>E46</title>
+        <link>/en/series/e46/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/series/e46/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>project E46</title>
+        <link>/en/series/project-e46/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/series/project-e46/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>E38</title>
@@ -43,42 +79,6 @@
         
         
         <guid>/en/series/mikrotik/</guid>
-        <description></description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>E46</title>
-        <link>/en/series/e46/</link>
-        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-        
-        
-        <guid>/en/series/e46/</guid>
-        <description></description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>project E46</title>
-        <link>/en/series/project-e46/</link>
-        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
-        
-        
-        <guid>/en/series/project-e46/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>
