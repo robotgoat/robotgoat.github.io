@@ -12,11 +12,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Linux</title>
+        <link>/en/series/linux/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/series/linux/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>E46</title>

@@ -12,11 +12,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Install Local Games in Linux via Lutris</title>
+        <link>/en/posts/2022_10_30_install-local-games-in-linux-via-lutris/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2022_10_30_install-local-games-in-linux-via-lutris/</guid>
+        <description>Intro Windows is increasingly becoming a hassle to use. Ads in your start menu, spying and telemetry of your local files, bogus hadware security restrictions, and more. Over the past few years, using any variant of Linux has become more than feasible as your daily driver, especially when it comes to playing games. Lutris is a great way to manage and launch your games, even Windows native games as there&amp;rsquo;s a Wine version speficially for playing games using Lutris.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Useful Bash Commands</title>
