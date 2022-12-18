@@ -19,6 +19,46 @@
 
       
       <item>
+        <title>BMW M62 M62tu CCV Delete Courtesy of SRS-Concept</title>
+        <link>/en/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</guid>
+        <description>Intro The CCV/PCV design on older BMWs from the late 90s to 2000s leave a lot to be desired. The E46 generation with the M54 engine is plagued by faulty CCV hosing and diaphram designs as well as poorly functioning cylinder rings. Having had experience troubleshooting and eventually bypassing the OEM CCV setup, I figured why not do the same on the E38 with its M62tu engine as the design is not that different.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>SRS Concept</category>
+            
+          
+        
+        
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>e38</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Install Local Games in Linux via Lutris</title>
         <link>/en/posts/2022_10_30_install-local-games-in-linux-via-lutris/</link>
         <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>

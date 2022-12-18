@@ -15,6 +15,22 @@
                 href="/en/"
                 />
   </url><url>
+    <loc>/en/tags/bmw/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/bmw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/bmw/"
+                />
+  </url><url>
+    <loc>/en/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/en/categories/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,6 +43,9 @@
                 hreflang="en"
                 href="/en/categories/"
                 />
+  </url><url>
+    <loc>/en/series/e38/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/categories/gaming/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
@@ -50,6 +69,9 @@
     <loc>/en/series/linux/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/en/categories/modifications/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/en/series/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -62,6 +84,9 @@
                 hreflang="en"
                 href="/en/series/"
                 />
+  </url><url>
+    <loc>/en/tags/srs-concept/</loc>
+    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/tags/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
@@ -81,19 +106,6 @@
   </url><url>
     <loc>/en/posts/2022_10_25_amazon-lf30-pump-review/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/bmw/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/bmw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/bmw/"
-                />
   </url><url>
     <loc>/en/tags/e46/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
@@ -175,13 +187,7 @@
     <loc>/en/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/series/e38/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/en/tags/fuel/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/categories/modifications/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/categories/restoration/</loc>
