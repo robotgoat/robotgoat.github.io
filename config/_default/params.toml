@@ -106,9 +106,11 @@ updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = false
+enableComment = true
 disqus_shortname = "" 
 commento = false
+
+giscus_enable = true
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
   owner = ""              # Your GitHub ID

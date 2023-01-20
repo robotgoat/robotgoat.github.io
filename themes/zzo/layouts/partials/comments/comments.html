@@ -19,5 +19,7 @@
     {{ partial "comments/isso.html" . }}
   {{ else if $.Param "telegram.enable" }}
     {{ partial "comments/telegram.html" . }}
+  {{ else if $.Param "giscus_enable" }}
+    {{ partial "comments/giscus.html" . }}
   {{ end }}
 {{ end }}
