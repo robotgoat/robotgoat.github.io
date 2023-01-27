@@ -104,14 +104,14 @@ podman run -d \
 --name pihole \
 --cap-add=NET_ADMIN \
 --net=mymacnet \
---ip=192.168.70.XXX \
+--ip=192.168.10.XXX \
 -v "~/Containers/pihole/etc-pihole:/etc/pihole" \
 -v "~/Containers/pihole/etc-dnsmasq.d:/etc/dnsmasq.d" \
 --restart=unless-stopped \
 --hostname Pihole \
 --security-opt label=disable \
 -e TZ="YOUR/TIMEZONE" \
--e VIRTUAL_HOST="pi.hole" \
+-e FTLCONF_LOCAL_IPV4=192.168.10.XXX \
 docker.io/pihole/pihole:latest
 ```
 
