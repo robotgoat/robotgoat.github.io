@@ -12,12 +12,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
         <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>containers</title>
+        <link>/en/categories/containers/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/categories/containers/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>networking</title>
+        <link>/en/categories/networking/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/categories/networking/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>gaming</title>

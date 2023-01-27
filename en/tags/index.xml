@@ -12,12 +12,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
         <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>networking</title>
+        <link>/en/tags/networking/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/tags/networking/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>pihole</title>
+        <link>/en/tags/pihole/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/tags/pihole/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>podman</title>
+        <link>/en/tags/podman/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        
+        <guid>/en/tags/podman/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>BMW</title>
@@ -188,24 +242,6 @@
         
         
         <guid>/en/tags/mikrotik/</guid>
-        <description></description>
-        
-        <dc:creator>SpiffyGoose</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>networking</title>
-        <link>/en/tags/networking/</link>
-        <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-        
-        
-        <guid>/en/tags/networking/</guid>
         <description></description>
         
         <dc:creator>SpiffyGoose</dc:creator>

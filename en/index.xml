@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
         <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
@@ -37,6 +37,54 @@
         
       
 
+      
+      <item>
+        <title>Setup Pihole Using Podman</title>
+        <link>/en/posts/2023_01_26_setup-pihole-using-podman/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 26 Jan 2023 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2023_01_26_setup-pihole-using-podman/</guid>
+        <description>Intro Pihole is increasingly becoming one of the essential network tools installed in home networks among power users. Initially, it was created to run on the ever popular Rasperry Pi SBC running Rasperry Pi OS, a derivative of Ubuntu made for the Rpi. However, as many people have experienced, running Pihole on a Rpi is not the best solution. For starters, there is a shortage of Raspberry Pi SBC as of writing this post and from my experience, the Rpi frequently corrupts the SD card and sometimes even the flashdrive if you use it as your boot storage.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>pihole</category>
+            
+          
+            
+              <category>podman</category>
+            
+          
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>BMW M62 M62tu CCV Delete Courtesy of SRS-Concept</title>

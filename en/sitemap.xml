@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +13,76 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url><url>
+    <loc>/en/categories/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url><url>
+    <loc>/en/categories/containers/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/series/linux/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/networking/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/networking/"
+                />
+  </url><url>
+    <loc>/en/categories/networking/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/pihole/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/podman/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/series/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+  </url><url>
+    <loc>/en/posts/2023_01_26_setup-pihole-using-podman/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url><url>
     <loc>/en/tags/bmw/</loc>
@@ -30,19 +100,6 @@
   </url><url>
     <loc>/en/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/categories/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
   </url><url>
     <loc>/en/series/e38/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
@@ -66,40 +123,11 @@
                 href="/en/tags/linux/"
                 />
   </url><url>
-    <loc>/en/series/linux/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/en/categories/modifications/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/series/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-  </url><url>
     <loc>/en/tags/srs-concept/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2022-12-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
   </url><url>
     <loc>/en/tags/ubuntu/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
@@ -217,19 +245,6 @@
   </url><url>
     <loc>/en/series/mikrotik/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/networking/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/networking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/networking/"
-                />
   </url><url>
     <loc>/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
