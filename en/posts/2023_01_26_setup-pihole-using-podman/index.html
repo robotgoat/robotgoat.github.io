@@ -1877,14 +1877,14 @@ WantedBy=default.target
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--name pihole <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--cap-add<span class="o">=</span>NET_ADMIN <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--net<span class="o">=</span>mymacnet <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>--ip<span class="o">=</span>192.168.70.XXX <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>--ip<span class="o">=</span>192.168.10.XXX <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>-v <span class="s2">&#34;~/Containers/pihole/etc-pihole:/etc/pihole&#34;</span> <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>-v <span class="s2">&#34;~/Containers/pihole/etc-dnsmasq.d:/etc/dnsmasq.d&#34;</span> <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--restart<span class="o">=</span>unless-stopped <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--hostname Pihole <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>--security-opt <span class="nv">label</span><span class="o">=</span>disable <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>-e <span class="nv">TZ</span><span class="o">=</span><span class="s2">&#34;YOUR/TIMEZONE&#34;</span> <span class="se">\
-</span></span></span><span class="line"><span class="cl"><span class="se"></span>-e <span class="nv">VIRTUAL_HOST</span><span class="o">=</span><span class="s2">&#34;pi.hole&#34;</span> <span class="se">\
+</span></span></span><span class="line"><span class="cl"><span class="se"></span>-e <span class="nv">FTLCONF_LOCAL_IPV4</span><span class="o">=</span>192.168.10.XXX <span class="se">\
 </span></span></span><span class="line"><span class="cl"><span class="se"></span>docker.io/pihole/pihole:latest
 </span></span></code></pre></td></tr></table>
 </div>
