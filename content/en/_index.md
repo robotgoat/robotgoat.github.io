@@ -11,10 +11,10 @@ header:
       - A blog focused on technology and old BMWs
     titleColor: # #123456, red
     titleShadow: true
-    titleFontSize: 44
+    titleFontSize: 48
     subtitleColor: # #123456, red
     subtitleCursive: true
-    subtitleFontSize: 16
+    subtitleFontSize: 18
     spaceBetweenTitleSubtitle: 20
   
   - type: img
@@ -93,4 +93,23 @@ header:
         titleFontSize: 44
         subtitleFontSize: 16
         spaceBetweenTitleSubtitle: 20
+
+  - type: typewriter
+    methods:
+      - typeString: Welcome
+      - pauseFor: 2500
+      - deleteAll: true
+      - typeString: Strings can be removed
+      - pauseFor: 2500
+      - deleteChars: 7
+      - typeString: <strong>altered!</strong>
+      - pauseFor: 2500
+    options:
+      loop: true
+      autoStart: false
+    height: 190
+    paddingX: 50
+    align: center
+    fontSize: 44
+    fontColor: white
 ---

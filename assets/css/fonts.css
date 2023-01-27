@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'biryanibold';
+  src: url('../fonts/Biryani-Bold-webfont.eot');
+  src: url('../fonts/Biryani-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Biryani-Bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'aileronregular';
+  src: url('../fonts/Aileron-Regular-webfont.eot');
+  src: url('../fonts/Aileron-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Aileron-Regular-webfont.woff') format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'lillyregular';
+  src: url('../fonts/Lilly__-webfont.eot');
+  src: url('../fonts/Lilly__-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Lilly__-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
