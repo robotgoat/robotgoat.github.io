@@ -12,12 +12,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
         <atom:link href="/en/series/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Frigate NVR Setup With Homeassistant Using Podman</title>
+        <link>/en/posts/2023_05_24_frigate-nvr-setup-with-homeassistant-using-podman/</link>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 31 May 2023 00:00:00 +0000</atom:modified>
+        <guid>/en/posts/2023_05_24_frigate-nvr-setup-with-homeassistant-using-podman/</guid>
+        <description>Intro Video surveillence software has come a long way since the days of analog CCTV cameras and dedicated NVR units that used propietary software and annoying licenses. Now there&amp;rsquo;s quite a variety of free and open source alternatives that have no such restrictions - the caveat being you have to spend time learning how it works and do your own troubleshooting if problems arise. With the ability to use cheap IP cameras on the market, using these open source NVR software is very appealing.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>podman</category>
+            
+          
+        
+        
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Setup Pihole Using Podman</title>

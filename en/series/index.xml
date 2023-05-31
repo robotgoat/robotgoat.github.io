@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© {year}, SpiffyGoose</copyright>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
         <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,7 @@
       <item>
         <title>Linux</title>
         <link>/en/series/linux/</link>
-        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
         
         
         <guid>/en/series/linux/</guid>

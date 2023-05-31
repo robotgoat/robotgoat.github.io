@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>/en/categories/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,10 +29,42 @@
                 />
   </url><url>
     <loc>/en/categories/containers/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/posts/2023_05_24_frigate-nvr-setup-with-homeassistant-using-podman/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/en/series/linux/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/tags/podman/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/en/series/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
   </url><url>
     <loc>/en/tags/networking/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
@@ -53,37 +85,8 @@
     <loc>/en/tags/pihole/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/podman/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/series/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-  </url><url>
     <loc>/en/posts/2023_01_26_setup-pihole-using-podman/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
   </url><url>
     <loc>/en/tags/bmw/</loc>
     <lastmod>2022-12-17T00:00:00+00:00</lastmod>
