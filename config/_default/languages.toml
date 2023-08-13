@@ -2,12 +2,16 @@
   title = "SpiffyGoose's Website"
   languageName = "English"
   weight = 1
-  languagedir = "ltr"
   contentdir = "content/en"
+[en.params]
+  languagedir = "ltr"
+
   
 [fr]
-  title = "SpiffyGoose's Website"
+  title = "Le Site du SpiffyGoose"
   languageName = "Français"
   weight = 2
-  languagedir = "ltr"
   contentdir = "content/fr"
+[fr.params]
+  languagedir = "ltr"
+

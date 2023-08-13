@@ -11,7 +11,7 @@ enableTocContent: false
 tocFolding: false
 tocPosition: inner
 tocLevels: ["h2", "h3"]
-pinned: true
+pinned: false
 draft: false
 tags:
 - linux
