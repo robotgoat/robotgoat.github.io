@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>suspension on SpiffyGoose&#39;s Website</title>
+    <link>/tags/suspension/</link>
+    <description>Recent content in suspension on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="/tags/suspension/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Uro Parts Front Suspension One Year Review</title>
+        <link>/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</guid>
+        <description>Intro Back when I was performing the full refresh on my neglected, zero maintenance history 325Ci, I opted to save some money and bought the Uro Parts full front suspension kit from Bimmerworld. The same kit is available on RockAuto, the ad of which is shown here. I had purchased it for $245, which seemed like a good deal for control arms, bushings, tie rod inner and outers, and sway bar endlinks.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>maintenance</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E46 ECS Tuning Coilover Review</title>
+        <link>/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</link>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 22 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</guid>
+        <description>8 Month Update April 22, 2022 After having daily driven the ECS Tuning coilovers on my stock 325ci for nearly 8 months, I can now confidently say that they are indeed much too harsh for the pockmarked and rough roads of the midwest. On perfectly smooth roads, these coilovers are great and comfortable, but at the slightest perturbation in the road, the comfort declines drastically. The coilovers clunked a lot and the added stiffness and lack of suspension spring travel put too much torsional stress on the chassis.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

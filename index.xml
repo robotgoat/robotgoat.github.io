@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>SpiffyGoose&#39;s Website</title>
+    <link>/</link>
+    <description>Recent content on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>BMW E38 Ultimate Sound System Revival</title>
+        <link>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</link>
+        <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 12 Aug 2023 00:00:00 +0000</atom:modified>
+        <guid>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</guid>
+        <description>Intro The average E38 7 series as of now is older than 20 years. With 2 decades of time, parts wear and break down. This includes the audio hardware. The original speakers in the E38 are paper woofers that have undoubtedly all degraded by now. While it may be simple to buy the original replacements, it&amp;rsquo;s most likely not sensible as inventory diminishes and prices increase. Instead, a better way to tackle this is to moderinize the audio system with bigger and better components tha have modern features like Bluetooth.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>audio</category>
+            
+          
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Frigate NVR Setup With Homeassistant Using Podman</title>
+        <link>/posts/2023_05_24_frigate-nvr-setup-with-homeassistant-using-podman/</link>
+        <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 31 May 2023 00:00:00 +0000</atom:modified>
+        <guid>/posts/2023_05_24_frigate-nvr-setup-with-homeassistant-using-podman/</guid>
+        <description>Intro Video surveillence software has come a long way since the days of analog CCTV cameras and dedicated NVR units that used propietary software and annoying licenses. Now there&amp;rsquo;s quite a variety of free and open source alternatives that have no such restrictions - the caveat being you have to spend time learning how it works and do your own troubleshooting if problems arise. With the ability to use cheap IP cameras on the market, using these open source NVR software is very appealing.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>podman</category>
+            
+          
+        
+        
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Setup Pihole Using Podman</title>
+        <link>/posts/2023_01_26_setup-pihole-using-podman/</link>
+        <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 26 Jan 2023 00:00:00 +0000</atom:modified>
+        <guid>/posts/2023_01_26_setup-pihole-using-podman/</guid>
+        <description>Intro Pihole is increasingly becoming one of the essential network tools installed in home networks among power users. Initially, it was created to run on the ever popular Rasperry Pi SBC running Rasperry Pi OS, a derivative of Ubuntu made for the Rpi. However, as many people have experienced, running Pihole on a Rpi is not the best solution. For starters, there is a shortage of Raspberry Pi SBC as of writing this post and from my experience, the Rpi frequently corrupts the SD card and sometimes even the flashdrive if you use it as your boot storage.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>pihole</category>
+            
+          
+            
+              <category>podman</category>
+            
+          
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>containers</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW M62 M62tu CCV Delete Courtesy of SRS-Concept</title>
+        <link>/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</guid>
+        <description>Intro The CCV/PCV design on older BMWs from the late 90s to 2000s leave a lot to be desired. The E46 generation with the M54 engine is plagued by faulty CCV hosing and diaphram designs as well as poorly functioning cylinder rings. Having had experience troubleshooting and eventually bypassing the OEM CCV setup, I figured why not do the same on the E38 with its M62tu engine as the design is not that different.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>SRS Concept</category>
+            
+          
+        
+        
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>e38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Install Local Games in Linux via Lutris</title>
+        <link>/posts/2022_10_30_install-local-games-in-linux-via-lutris/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_10_30_install-local-games-in-linux-via-lutris/</guid>
+        <description>Intro Windows is increasingly becoming a hassle to use. Ads in your start menu, spying and telemetry of your local files, bogus hadware security restrictions, and more. Over the past few years, using any variant of Linux has become more than feasible as your daily driver, especially when it comes to playing games. Lutris is a great way to manage and launch your games, even Windows native games as there&amp;rsquo;s a Wine version speficially for playing games using Lutris.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Amazon LF30 Pump Review</title>
+        <link>/posts/2022_10_25_amazon-lf30-pump-review/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_10_25_amazon-lf30-pump-review/</guid>
+        <description>Intro Earlier this year I decided to switch my power steering system in my E46 325ci to the LF30 style pump due it apparently having a more robust design. The LUK branded new pumps at that time were on backorder and still seem to be backordered. I therefore bought a cheap one from Amazon and have now been using it for almost a year.
+One Year Review Since installing this pump, I have driven my car almost 10,000 miles and taken it through some very spirited routes in the Smokey Mountains.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E46</category>
+            
+          
+        
+        
+          
+            
+              <category>maintenance</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Uro Parts Front Suspension One Year Review</title>
+        <link>/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</link>
+        <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</guid>
+        <description>Intro Back when I was performing the full refresh on my neglected, zero maintenance history 325Ci, I opted to save some money and bought the Uro Parts full front suspension kit from Bimmerworld. The same kit is available on RockAuto, the ad of which is shown here. I had purchased it for $245, which seemed like a good deal for control arms, bushings, tie rod inner and outers, and sway bar endlinks.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>maintenance</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Mvading the Dragon 2022</title>
+        <link>/gallery/2022_10_24_mvading-the-dragon-2022/</link>
+        <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 24 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/gallery/2022_10_24_mvading-the-dragon-2022/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>motorsports</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E38 Custom Fuel Rail Hose Replacement</title>
+        <link>/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</link>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 24 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</guid>
+        <description>Addendum To The Solution While replacing the other crimped hoses on the car, I revisited the fuel hose solution. I am a proponent of the KISS (keep it simple, stupid) philosophy and opted to remove the complicated crimp setup on the fuel line coming from the filter. To simplify the hose attachment, the simpler solution is to simply create a raised ring around the metal tube where the fuel hose attaches.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>fuel</category>
+            
+          
+        
+        
+          
+            
+              <category>restoration</category>
+            
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E38 Electric Fan Conversion</title>
+        <link>/posts/2022_04_24_bmw-e38-electric-fan-conversion/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 24 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_04_24_bmw-e38-electric-fan-conversion/</guid>
+        <description>Intro A common modification/upgrade on older BMWs is the removal of the pulley driven engine fan on the water pump and installation of an electrically driven fan. This modification is easy on E46, but slightly more difficult on E38 and E39 as they did not come with a main electric fan from the factory. This modification is performed to reduce the risk of the mechanical fan&amp;rsquo;s blades from shattering, potentially causing havoc to the engine.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cooling</category>
+            
+          
+        
+        
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Project Ohio E38 Progress</title>
+        <link>/gallery/2022_04_23_project-ohio-e38-progress/</link>
+        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 23 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/gallery/2022_04_23_project-ohio-e38-progress/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Revised Mikrotik RB2011 Series VLAN Guide and Setup With Switch Chip</title>
+        <link>/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</link>
+        <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/</guid>
+        <description>Intro In my previous post, I had detailed a rather rudimentary guide to setting up VLANs on the Mikrotik RB2011 series of routers utilizing the switch chips. As an end of year network audit, I found that the setup I had been using was incomplete and consequently, the first guide on this website is also lacking. To remedy this error, this is version 2 of the RB2011 VLAN guide. The following steps assume you start on the default configuration of the router.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>mikrotik</category>
+            
+          
+            
+              <category>vlan</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>mikrotik</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Random 2021 Stuff</title>
+        <link>/gallery/2021_12_24_random-2021-stuff/</link>
+        <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 24 Dec 2021 00:00:00 +0000</atom:modified>
+        <guid>/gallery/2021_12_24_random-2021-stuff/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E46 ECS Tuning Coilover Review</title>
+        <link>/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</link>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 22 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/</guid>
+        <description>8 Month Update April 22, 2022 After having daily driven the ECS Tuning coilovers on my stock 325ci for nearly 8 months, I can now confidently say that they are indeed much too harsh for the pockmarked and rough roads of the midwest. On perfectly smooth roads, these coilovers are great and comfortable, but at the slightest perturbation in the road, the comfort declines drastically. The coilovers clunked a lot and the added stiffness and lack of suspension spring travel put too much torsional stress on the chassis.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E46</category>
+            
+          
+            
+              <category>suspension</category>
+            
+          
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>E46 LF20 to LF30 Upgrade</title>
+        <link>/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</link>
+        <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 16 May 2021 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_05_16_e46-lf20-to-lf30-upgrade/</guid>
+        <description>Intro When I picked up my E46 coupe from the seller and drove it home, I noticed the power steering system would make a groaning noise whenever I turned the wheel at a standstill or low speeds. Now that I have the car on jacks, I decided to replace the entire power steering system (hoses, reservoir, and powers steering pump).
+The OEM pump that&amp;rsquo;s in my car is the LUK LF20 style pump.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>E46 Stereo Wiring</title>
+        <link>/notes/2021_03_25_e46-stereo-wiring/</link>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Thu, 25 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>/notes/2021_03_25_e46-stereo-wiring/</guid>
+        <description>Wiring Color Guide This color guide has been accurate when replacing the factory speaker and amplifier in my 2004 330Ci and 2001 325Ci. To double check, you can simply test continuity with a multimeter.
+Grey ½ of connector
+Pin # 13 / Tweeter Rear Right door + * Yellow Pin # 21 / Tweeter Rear Right door - *Blue / yellow
+Pin # 12 / Tweeter Front Right - Blue / Brown Pin #20 / no connection</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>The High Mileage E46 Coupe Project</title>
+        <link>/posts/2021_03_15_the-high-mileage-e46-coupe-project/</link>
+        <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 15 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_03_15_the-high-mileage-e46-coupe-project/</guid>
+        <description>Backstory During the summer of last year in height of the covid fiasco and right after the hurricane, I had the brilliant idea to buy this 2001 BMW 325Ci coupe. I had found this on the e46fanatics forum&amp;rsquo;s classifieds section and was immediately enamored by the Tannin red interior paired with Alpine white exterior. Initially, I was convincing myself to not even consider inquiring and focus on my already present 2004 330Ci convertible.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e46-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+        
+        
+          
+            
+              <category>project E46</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>San Diego Memories</title>
+        <link>/gallery/2021_03_08_san-diego-memories/</link>
+        <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 08 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>/gallery/2021_03_08_san-diego-memories/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Useful Bash Commands</title>
+        <link>/notes/2021_03_07_useful-bash-commands/</link>
+        <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 23 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/notes/2021_03_07_useful-bash-commands/</guid>
+        <description>Archiving Archive and compress files to tar and xz 1 tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/ When using pigz for parallel gz compresion 1 tar -c --use-compress-program=pigz -f NAME.tar.gz directory/ Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores. 0 uses all cores.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="note-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Mikrotik Rb2011 VLAN Guide (Winbox) [DEPRECATED]</title>
+        <link>/posts/2021_02_24_mikrotik-rb2011-vlan/</link>
+        <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 27 Dec 2021 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_02_24_mikrotik-rb2011-vlan/</guid>
+        <description>THIS POST IS DEPRECATED. PLEASE VISIT THE UPDATED VERSION HERE: https://www.spiffygoose.com/en/posts/2021_12_25_revised-mikrotik-rb2011-series-vlan-guide/
+Motivation To increase the security of my property, I decided to install IP surveillence cameras in high traffic areas. However, being the OCD and cheapskate I am, I wanted to retain full control while maintaining a reasonable budget. This meant deploying cheap Chinese brand cameras that will undoubtedly be phoning home - which has to be addressed on the network through virtual local area networks (VLANS).</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="router_icon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>networking</category>
+            
+          
+            
+              <category>mikrotik</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>My New E38 Project</title>
+        <link>/posts/2021_02_19_new-e38/</link>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>/posts/2021_02_19_new-e38/</guid>
+        <description>Why Did I Buy It? I have been driving my 10th gen Honda Civic for a few years now, but never ended up feeling attached to it since buying my E46 330Ci a couple years ago. Since getting a taste of the BMW experience, I have also been wanting of a more luxurious car that offers great dynamics, ergonomics, and comfort (NVH is a huge letdown in the Civic). Or it could be me just getting old.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>E38</category>
+            
+          
+        
+        
+          
+            
+              <category>cars</category>
+            
+          
+            
+              <category>BMW</category>
+            
+          
+        
+        
+          
+            
+              <category>project e38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Random Cars</title>
+        <link>/gallery/2021_02_19_random-cars/</link>
+        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 19 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>/gallery/2021_02_19_random-cars/</guid>
+        <description></description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="gallery-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

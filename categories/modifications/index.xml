@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>modifications on SpiffyGoose&#39;s Website</title>
+    <link>/categories/modifications/</link>
+    <description>Recent content in modifications on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="/categories/modifications/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>BMW E38 Ultimate Sound System Revival</title>
+        <link>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</link>
+        <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 12 Aug 2023 00:00:00 +0000</atom:modified>
+        <guid>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</guid>
+        <description>Intro The average E38 7 series as of now is older than 20 years. With 2 decades of time, parts wear and break down. This includes the audio hardware. The original speakers in the E38 are paper woofers that have undoubtedly all degraded by now. While it may be simple to buy the original replacements, it&amp;rsquo;s most likely not sensible as inventory diminishes and prices increase. Instead, a better way to tackle this is to moderinize the audio system with bigger and better components tha have modern features like Bluetooth.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>audio</category>
+            
+          
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW M62 M62tu CCV Delete Courtesy of SRS-Concept</title>
+        <link>/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_12_17_bmw-m62-m62tu-ccv-delete/</guid>
+        <description>Intro The CCV/PCV design on older BMWs from the late 90s to 2000s leave a lot to be desired. The E46 generation with the M54 engine is plagued by faulty CCV hosing and diaphram designs as well as poorly functioning cylinder rings. Having had experience troubleshooting and eventually bypassing the OEM CCV setup, I figured why not do the same on the E38 with its M62tu engine as the design is not that different.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>BMW</category>
+            
+          
+            
+              <category>SRS Concept</category>
+            
+          
+        
+        
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>e38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E38 Custom Fuel Rail Hose Replacement</title>
+        <link>/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</link>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 24 Oct 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_05_24_bmw-e38-custom-fuel-rail-hose-replacement/</guid>
+        <description>Addendum To The Solution While replacing the other crimped hoses on the car, I revisited the fuel hose solution. I am a proponent of the KISS (keep it simple, stupid) philosophy and opted to remove the complicated crimp setup on the fuel line coming from the filter. To simplify the hose attachment, the simpler solution is to simply create a raised ring around the metal tube where the fuel hose attaches.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>fuel</category>
+            
+          
+        
+        
+          
+            
+              <category>restoration</category>
+            
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>BMW E38 Electric Fan Conversion</title>
+        <link>/posts/2022_04_24_bmw-e38-electric-fan-conversion/</link>
+        <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 24 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_04_24_bmw-e38-electric-fan-conversion/</guid>
+        <description>Intro A common modification/upgrade on older BMWs is the removal of the pulley driven engine fan on the water pump and installation of an electrically driven fan. This modification is easy on E46, but slightly more difficult on E38 and E39 as they did not come with a main electric fan from the factory. This modification is performed to reduce the risk of the mechanical fan&amp;rsquo;s blades from shattering, potentially causing havoc to the engine.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="bmw-e38-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cooling</category>
+            
+          
+        
+        
+          
+            
+              <category>modifications</category>
+            
+          
+        
+        
+          
+            
+              <category>E38</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>linux on SpiffyGoose&#39;s Website</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on SpiffyGoose&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© {year}, SpiffyGoose</copyright>
+    <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Install Local Games in Linux via Lutris</title>
+        <link>/posts/2022_10_30_install-local-games-in-linux-via-lutris/</link>
+        <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 17 Dec 2022 00:00:00 +0000</atom:modified>
+        <guid>/posts/2022_10_30_install-local-games-in-linux-via-lutris/</guid>
+        <description>Intro Windows is increasingly becoming a hassle to use. Ads in your start menu, spying and telemetry of your local files, bogus hadware security restrictions, and more. Over the past few years, using any variant of Linux has become more than feasible as your daily driver, especially when it comes to playing games. Lutris is a great way to manage and launch your games, even Windows native games as there&amp;rsquo;s a Wine version speficially for playing games using Lutris.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="tux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>Ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Useful Bash Commands</title>
+        <link>/notes/2021_03_07_useful-bash-commands/</link>
+        <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 23 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>/notes/2021_03_07_useful-bash-commands/</guid>
+        <description>Archiving Archive and compress files to tar and xz 1 tar -I pxz -cf NAME-OF-COMPRESSED-FILE.tar.xz SOURCEDIRECTORY/ When using pigz for parallel gz compresion 1 tar -c --use-compress-program=pigz -f NAME.tar.gz directory/ Create tar.xz with more options The -9 signifies compression level from 1 - 9, with 9 being highest compression. It is preferable to use 4-5 for best peformance to compression tradeoff. The -T is CPU cores. 0 uses all cores.</description>
+        
+        <dc:creator>SpiffyGoose</dc:creator>
+        <media:content url="note-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

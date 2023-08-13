@@ -7,7 +7,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/bmw/"
+                href="/tags/bmw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,7 +33,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/bmw/"
+                href="/categories/bmw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -46,7 +46,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/"
+                href="/posts/2021_10_24_bmw-e46-ecs-tuning-coilover-review/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/cars/"
+                href="/categories/cars/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -72,7 +72,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -85,7 +85,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/e46/"
+                href="/tags/e46/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -98,7 +98,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/e46/"
+                href="/series/e46/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -111,7 +111,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -124,7 +124,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/suspension/"
+                href="/tags/suspension/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -137,7 +137,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,7 +150,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/2021_05_16_e46-lf20-to-lf30-upgrade/"
+                href="/posts/2021_05_16_e46-lf20-to-lf30-upgrade/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -163,7 +163,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/project-e46/"
+                href="/series/project-e46/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -176,7 +176,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/notes/2021_03_25_e46-stereo-wiring/"
+                href="/notes/2021_03_25_e46-stereo-wiring/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -189,7 +189,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/2021_03_15_the-high-mileage-e46-coupe-project/"
+                href="/posts/2021_03_15_the-high-mileage-e46-coupe-project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -202,7 +202,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/"
+                href="/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -215,7 +215,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/2021_03_08_san-diego-memories/"
+                href="/gallery/2021_03_08_san-diego-memories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -228,7 +228,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/linux/"
+                href="/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -241,7 +241,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/notes/2021_03_07_useful-bash-commands/"
+                href="/notes/2021_03_07_useful-bash-commands/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -254,7 +254,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/mikrotik/"
+                href="/tags/mikrotik/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -267,7 +267,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/2021_02_24_mikrotik-rb2011-vlan/"
+                href="/posts/2021_02_24_mikrotik-rb2011-vlan/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -280,7 +280,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/networking/"
+                href="/tags/networking/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -293,7 +293,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -306,7 +306,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/e38/"
+                href="/tags/e38/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -319,7 +319,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/2021_02_19_new-e38/"
+                href="/posts/2021_02_19_new-e38/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -332,7 +332,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/project-e38/"
+                href="/series/project-e38/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -345,7 +345,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/2021_02_19_random-cars/"
+                href="/gallery/2021_02_19_random-cars/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -358,7 +358,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/notes/"
+                href="/notes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -371,7 +371,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -383,7 +383,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
