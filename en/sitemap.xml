@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,11 +15,8 @@
                 href="/"
                 />
   </url><url>
-    <loc>/tags/audio/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/bmw/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -31,11 +28,8 @@
                 href="/categories/bmw/"
                 />
   </url><url>
-    <loc>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -48,13 +42,29 @@
                 />
   </url><url>
     <loc>/series/e38/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/2023_08_15_e38-extensive-modifications/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/gallery/"
+                />
   </url><url>
     <loc>/categories/modifications/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/series/</loc>
-    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -65,6 +75,12 @@
                 hreflang="en"
                 href="/series/"
                 />
+  </url><url>
+    <loc>/tags/audio/</loc>
+    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/2023_08_12_bmw-e38-ultimate-sound-system-revival/</loc>
+    <lastmod>2023-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2023-08-12T00:00:00+00:00</lastmod>
@@ -214,19 +230,6 @@
   </url><url>
     <loc>/posts/2022_10_25_uro-parts-front-suspension-one-year-review/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/gallery/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/gallery/"
-                />
   </url><url>
     <loc>/tags/motorsports/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
