@@ -1,0 +1,49 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import NavHeader from "../components/NavHeader.astro";
+import Footer from "../components/Footer.astro";
+import Sidebar from "../components/Sidebar.astro";
+
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+
+import { ClientRouter } from "astro:transitions";
+
+import "../styles/global.css";
+
+const {
+  image,
+  title = SITE_TITLE,
+  description = SITE_DESCRIPTION,
+  sideBarActiveItemID,
+  ogType,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      image={image}
+      ,
+      ogType={ogType}
+    />
+    <ClientRouter />
+  </head>
+  <body>
+    <div class="bg-base-100 drawer lg:drawer-open">
+      <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+      <div class="drawer-content bg-base-100">
+        <NavHeader />
+        <div class="md:flex md:justify-center">
+          <main class="p-6 lg:max-w-5xl max-w-lg">
+            <slot />
+          </main>
+        </div>
+        <Footer />
+      </div>
+      <Sidebar sideBarActiveItemID={sideBarActiveItemID}/>
+    </div>
+  </body>
+</html>

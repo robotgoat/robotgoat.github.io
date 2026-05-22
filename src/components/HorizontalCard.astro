@@ -1,0 +1,61 @@
+---
+import { Image } from "astro:assets";
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  badge?: string;
+  tags?: string[];
+  url?: string;
+  target?: "_blank" | "_self";
+}
+
+const {
+  title,
+  description,
+  image,
+  badge,
+  tags = [],
+  url,
+  target = "_blank",
+} = Astro.props;
+---
+
+<div
+  class="rounded-lg bg-base-100 hover:shadow-xl transition ease-in-out hover:scale-[102%]"
+>
+  <a href={url} target={target}>
+    <div class="hero-content flex-col md:flex-row">
+      {
+        image && (
+          <Image
+            src={image}
+            width={150}
+            height={150}
+            format="png"
+            alt={title}
+            class="max-w-full md:max-w-[13rem] rounded-lg"
+          />
+        )
+      }
+      <div class="grow w-full">
+        <h1 class="text-xl font-bold">
+          {title}
+          {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
+        </h1>
+        <p class="py-1 text-1xl">{description}</p>
+        <div class="card-actions justify-end">
+          {
+            tags &&
+              tags.map((tag: string) => (
+                <a href={`${tags}/${tag}`} class="badge badge-outline">
+                  {tag}
+                </a>
+              ))
+          }
+        </div>
+      </div>
+    </div>
+  </a>
+</div>

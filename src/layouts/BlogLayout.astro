@@ -1,0 +1,60 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  pubDate: string;
+  heroImage?: string;
+  activeId?: string;
+}
+
+const { title, description, pubDate, heroImage, activeId } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} activeId={activeId}>
+  <article class="prose prose-lg prose-img:mx-auto max-w-none">
+    {
+      heroImage && (
+        <div class="mb-8 overflow-hidden rounded-lg">
+          <img
+            src={heroImage}
+            alt={title}
+            class="w-full h-96 object-cover hover:scale-105 transition-transform duration-300"
+          />
+        </div>
+      )
+    }
+
+    <header class="mb-8 not-prose">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">{title}</h1>
+      <div class="flex flex-wrap items-center gap-4 text-base-content/70">
+        {
+          pubDate && (
+            <time datetime={pubDate} class="text-sm">
+              {new Date(pubDate).toLocaleDateString("en-UK", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
+            </time>
+          )
+        }
+        {description && <p class="text-sm md:text-base">{description}</p>}
+      </div>
+      <div
+        class="h-1 w-20 bg-gradient-to-r from-primary to-secondary rounded-full mt-4"
+      >
+      </div>
+    </header>
+
+    <div class="my-8">
+      <slot />
+    </div>
+  </article>
+
+  <!-- Navigation -->
+  <div class="mt-16 pt-8 border-t border-base-300">
+    <a href="/blog" class="btn btn-outline">← Back to Blog</a>
+  </div>
+</BaseLayout>
