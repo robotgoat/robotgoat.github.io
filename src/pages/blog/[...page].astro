@@ -34,6 +34,8 @@ const { page } = Astro.props;
               image={post.data.heroImage}
               description={post.data.description}
               url={"/blog/" + post.id }
+              tags={post.data.tags}
+              badge={post.data.badge}
               target="_self"
             />
             <div class="divider my-0" />

@@ -42,10 +42,10 @@ const {
       <div class="grow w-full">
         <h1 class="text-xl font-bold">
           {title}
-          {badge && <div class="badge badge-secondary mx-2">{badge}</div>}
+          {badge && <div class="badge badge-accent mx-2">{badge}</div>}
         </h1>
         <p class="py-1 text-1xl">{description}</p>
-        <div class="card-actions justify-end">
+        <div class="card-actions justify-start">
           {
             tags &&
               tags.map((tag: string) => (

@@ -4,6 +4,7 @@ description: A workflow tip to use UV and Mise
 pubDate: May 21 2026
 heroImage: ""
 tags: ["musings"]
+badge: ""
 ---
 
 ## The Problem 

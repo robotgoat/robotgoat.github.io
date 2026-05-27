@@ -13,11 +13,10 @@ const recentPosts = posts.slice(0,3);
 <BaseLayout>
   <div class="pb-12 mt-5">
     <div class="text-xl py-1">Hello, I'm the</div>
-    <div class="text-5xl font-bold">TrailerParkPilot</div>
-    <div class="text-3xl py-3 font-bold">Welcome to my random blog</div>
+    <div class="text-6xl font-bold">TrailerParkPilot</div>
+    <div class="text-xl py-3 font-bold">Welcome to my random blog</div>
   </div>
-
-  <div class="text-3xl py-3 font-bold">Recent Posts:</div>
+  <div class="text-5xl py-3 font-bold">Recent Posts</div>
   {
     recentPosts.map((blig) => (
         <HorizontalCard
@@ -25,6 +24,8 @@ const recentPosts = posts.slice(0,3);
           image={blig.data.heroImage}
           description={blig.data.description}
           url={"/blog/" + blig.id }
+          tags={blig.data.tags}
+          badge={blig.data.badge}
           target="_self"
         />
         <div class="divider my-0" />

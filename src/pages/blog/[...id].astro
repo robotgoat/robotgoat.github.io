@@ -27,6 +27,9 @@ const { Content } = await render(post);
   title={post.data.title}
   description={post.data.description}
   pubDate={post.data.pubDate.toString()}
+  heroImage={post.data.heroImage}
+  tags={post.data.tags}
+  badge={post.data.badge}
   activeId="blog"
 >
   <Content />

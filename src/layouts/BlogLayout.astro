@@ -7,9 +7,11 @@ interface Props {
   pubDate: string;
   heroImage?: string;
   activeId?: string;
+  tags?: string[];
+  badge?: string;
 }
 
-const { title, description, pubDate, heroImage, activeId } = Astro.props;
+const { title, description, pubDate, heroImage, activeId, tags, badge } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description} activeId={activeId}>
@@ -42,6 +44,18 @@ const { title, description, pubDate, heroImage, activeId } = Astro.props;
         }
         {description && <p class="text-sm md:text-base">{description}</p>}
       </div>
+      {badge && <div class="badge badge-accent my-1">{badge}</div>}
+      {
+        tags &&
+          tags.map((tag) => (
+            <a
+              href={`/blog/tag/${tag}`}
+              class="badge badge-outline ml-2 no-underline"
+            >
+              {tag}
+            </a>
+          ))
+      }
       <div
         class="h-1 w-20 bg-gradient-to-r from-primary to-secondary rounded-full mt-4"
       >

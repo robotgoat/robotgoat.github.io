@@ -63,6 +63,7 @@ description: ${enteredInput[1]}
 pubDate: ${today.toDateString().slice(4)}
 heroImage: ""
 tags: ["musings"]
+badge: ""
 ---
     `;
 
