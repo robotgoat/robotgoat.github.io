@@ -16,21 +16,21 @@ const { title, description, pubDate, heroImage, activeId, tags, badge } = Astro.
 
 <BaseLayout title={title} description={description} activeId={activeId}>
   <article class="prose prose-lg prose-img:mx-auto max-w-none">
-    {
-      heroImage && (
-        <div class="mb-8 overflow-hidden rounded-lg">
-          <img
-            src={heroImage}
-            alt={title}
-            class="w-full h-96 object-cover hover:scale-105 transition-transform duration-300"
-          />
-        </div>
-      )
-    }
-
-    <header class="mb-8 not-prose">
-      <h1 class="text-4xl md:text-5xl font-bold mb-4">{title}</h1>
-      <div class="flex flex-wrap items-center gap-4 text-base-content/70">
+    <header class="mb-8 not-prose flex items-start gap-8">
+      {
+        heroImage && (
+          <div class="flex-shrink-0 overflow-hidden rounded-lg">
+            <img
+              src={heroImage}
+              alt={title}
+              class="h-32 w-32 object-contain hover:scale-105 transition-transform duration-300"
+            />
+          </div>
+        )
+      }
+      <div class="flex-1">
+        <h1 class="text-4xl md:text-5xl font-bold mb-4">{title}</h1>
+        <div class="flex flex-wrap items-center gap-4 text-base-content/70">
         {
           pubDate && (
             <time datetime={pubDate} class="text-sm">
@@ -43,22 +43,23 @@ const { title, description, pubDate, heroImage, activeId, tags, badge } = Astro.
           )
         }
         {description && <p class="text-sm md:text-base">{description}</p>}
-      </div>
-      {badge && <div class="badge badge-accent my-1">{badge}</div>}
-      {
-        tags &&
-          tags.map((tag) => (
-            <a
-              href={`/blog/tag/${tag}`}
-              class="badge badge-outline ml-2 no-underline"
-            >
-              {tag}
-            </a>
-          ))
-      }
-      <div
-        class="h-1 w-20 bg-gradient-to-r from-primary to-secondary rounded-full mt-4"
-      >
+        </div>
+        {badge && <div class="badge badge-accent my-1">{badge}</div>}
+        {
+          tags &&
+            tags.map((tag) => (
+              <a
+                href={`/blog/tag/${tag}`}
+                class="badge badge-outline ml-2 no-underline"
+              >
+                {tag}
+              </a>
+            ))
+        }
+        <div
+          class="h-1 bg-gradient-to-r from-primary to-secondary rounded-full mt-4"
+        >
+        </div>
       </div>
     </header>
 

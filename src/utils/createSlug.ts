@@ -1,19 +1,13 @@
-// Adapted from https://equk.co.uk/2023/02/02/generating-slug-from-title-in-astro/
+// Helper function to create clean slugs for the url
 
-import { GENERATE_SLUG_FROM_TITLE } from "../config";
+export default function(postid: string) {
+    const postArr: string[] = postid.split("/");
+    const urlBase: string = postArr[postArr.length-1];
+    const urlBaseParts: string[] = urlBase.split("_");
 
-export default function (title: string, staticSlug: string) {
-  return (
-    !GENERATE_SLUG_FROM_TITLE ? staticSlug : title
-      // remove leading & trailing whitespace
-      .trim()
-      // output lowercase
-      .toLowerCase()
-      // replace spaces
-      .replace(/\s+/g, '-')
-      // remove special characters
-      .replace(/[^\w-]/g, '')
-      // remove leading & trailing separtors
-      .replace(/^-+|-+$/g, '')
-  )
+    const slugDate: string = urlBaseParts[0].replaceAll("-", "/");
+    const slugName: string = urlBaseParts[1];
+    const finalSlug: string = slugDate + "/" + slugName;
+    
+    return finalSlug;
 }

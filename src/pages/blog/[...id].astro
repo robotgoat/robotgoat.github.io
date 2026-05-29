@@ -2,6 +2,7 @@
 import BlogLayout from "../../layouts/BlogLayout.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 import { render } from "astro:content";
+import createSlug from "../../utils/createSlug";
 
 // This is where dynamic routes (the URLS) for each blog post are defined
 // The dynamic routes are defined using the id property from the getCollection function
@@ -9,7 +10,7 @@ import { render } from "astro:content";
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
   const blogPost = posts.map((post) => ({
-    params: { id: post.id },
+    params: { id: createSlug(post.id) },
     props: { post },
   }));
   return blogPost;

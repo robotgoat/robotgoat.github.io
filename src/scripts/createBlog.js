@@ -23,12 +23,12 @@ const year = today.getFullYear();
 const enteredInput = process.argv.slice(2);
 
 function parseCMD() {
-  console.log(enteredInput);
+  // console.log(enteredInput);
   let dDex = -1;
   let isPostDir = false;
 
   if (enteredInput.includes("d")) {
-    console.log("Make a folder for the blog post");
+    console.log("Making an individual folder for the blog post");
     dDex = enteredInput.indexOf("d");
 
     if (dDex === 0) {
@@ -51,7 +51,7 @@ function createFileBaseName() {
     "-" +
     day.toString().padStart(2, "0") +
     "_" +
-    enteredInput[0].toLowerCase().replace(/ /g, "_");
+    enteredInput[0].toLowerCase().replace(/ /g, "-");
 
   return fileName;
 }
@@ -75,7 +75,7 @@ function createNewBlogPost(isMakePostDir, fileBaseName, frontMatter) {
   const yearDirectory = path.join(blogPath, year.toString());
 
   let blogDirPaths = path.join(yearDirectory);
-  console.log(blogDirPaths);
+  // console.log(blogDirPaths);
 
   try {
     if (!fs.existsSync(yearDirectory)) {
@@ -107,7 +107,7 @@ function createNewBlogPost(isMakePostDir, fileBaseName, frontMatter) {
 
   // // Lastly create the file
   blogDirPaths = path.join(blogDirPaths, fileBaseName + ".md");
-  console.log(blogDirPaths);
+  // console.log(blogDirPaths);
   try {
     if (!fs.existsSync(blogDirPaths)) {
       fs.writeFileSync(blogDirPaths, frontMatter);
