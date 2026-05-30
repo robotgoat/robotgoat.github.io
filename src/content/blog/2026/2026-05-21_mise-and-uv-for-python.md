@@ -2,7 +2,7 @@
 title: Mise and UV for Python
 description: A workflow tip to use UV and Mise
 pubDate: May 21 2026
-heroImage: "/src/assets/pc.png"
+heroImage: "/images/pc.png"
 tags: ["musings"]
 badge: ""
 ---

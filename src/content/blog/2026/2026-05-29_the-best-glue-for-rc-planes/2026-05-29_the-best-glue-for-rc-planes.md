@@ -2,7 +2,7 @@
 title: The Best Glue For RC Planes
 description: A must have glue in your RC toolbox
 pubDate: May 29 2026
-heroImage: "/src/assets/gear.png"
+heroImage: "/images/gear.png"
 tags: ["RC planes"]
 badge: "opinion"
 ---
